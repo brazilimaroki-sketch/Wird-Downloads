@@ -1,0 +1,79 @@
+name: Wird official prayer tables
+
+'on':
+  push:
+    branches: [main]
+    paths: ['prayer-backend/**', '.github/workflows/prayer-tables.yml']
+  workflow_dispatch:
+  schedule:
+    - cron: '17 3,15 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: wird-prayer-table-publication
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Read backend source
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - name: Set up Python
+        uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+        with:
+          python-version: '3.12'
+      - name: Validate parser and atomic storage
+        run: python -m unittest discover -s prayer-backend/tests -v
+      - name: Read previously published JSON
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: prayer-data
+          path: _published
+          persist-credentials: true
+      - name: Fetch dated Ministry tables
+        id: sync
+        continue-on-error: true
+        run: python prayer-backend/sync.py --output _published/api/v1 --diagnostics diagnostics
+      - name: Publish tables and truthful sync status
+        if: ${{ !cancelled() && steps.sync.outcome != 'skipped' }}
+        working-directory: _published
+        run: |
+          test -f api/v1/sync-status.json
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add api/v1
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh validated Ministry prayer tables and sync status'
+            git push origin HEAD:prayer-data
+          fi
+      - name: Keep upstream diagnostics for review
+        if: always()
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: wird-prayer-diagnostics
+          path: |
+            diagnostics/
+            _published/api/v1/sync-status.json
+          retention-days: 7
+          if-no-files-found: warn
+      - name: Report incomplete synchronization
+        if: ${{ !cancelled() && steps.sync.outcome != 'skipped' }}
+        run: |
+          python - <<'PY'
+          import json, sys
+          from pathlib import Path
+          path = Path('_published/api/v1/sync-status.json')
+          if not path.exists():
+              raise SystemExit('Synchronization did not produce a status file')
+          status = json.loads(path.read_text())
+          results = status['results']
+          print(json.dumps(status, ensure_ascii=False, indent=2))
+          complete = len(results) == status['requested'] and all(row['success'] for row in results)
+          raise SystemExit(0 if complete else 1)
+          PY
