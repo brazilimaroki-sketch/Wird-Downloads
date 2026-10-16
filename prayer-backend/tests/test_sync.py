@@ -34,6 +34,15 @@ class SyncTest(unittest.TestCase):
         self.assertEqual(confirmed['lastDate'], '2026-11-10')
         self.assertEqual(confirmed['days'][2]['times']['Isha'], '19:43')
 
+    def test_live_ministry_snapshots(self):
+        for cid,name in [(158,'بوجدور'),(1,'الرباط')]:
+            html=(ROOT/'tests/fixtures'/f'habous_{cid}_2026_10.html').read_text()
+            result=sync.parse_month(html,{'id':cid,'name':name},NOW)
+            self.assertEqual(len(result['days']),29)
+            self.assertEqual(result['lastDate'],'2026-11-10')
+            if cid==158:
+                self.assertEqual(result['days'][3]['times'],dict(zip(sync.KEYS,['05:36','06:55','12:49','16:02','18:33','19:42'])))
+
     def test_bad_sources_rejected(self):
         html = fixture()
         invalid = [html.replace('value="158"', 'value="1"'), html.replace('2026', ''),

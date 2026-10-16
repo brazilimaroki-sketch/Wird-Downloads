@@ -105,7 +105,7 @@ def parse_month(html, city, now=None):
                 raise ValueError('unexpected number of table cells')
             checked_times(row[3:])
             data.append(row)
-    if len(data) == 30 and norm(data[-1][1]) == norm('حسب رؤية الهلال'):
+    if len(data) == 30 and norm(data[-1][1]) in {norm('حسب رؤية الهلال'), norm('حسب نتيجة المراقبة')}:
         data.pop()
     if len(data) not in (29, 30) or data[0][1] != '1':
         raise ValueError('incomplete monthly table')
