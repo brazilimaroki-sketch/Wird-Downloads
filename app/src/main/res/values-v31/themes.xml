@@ -1,0 +1,18 @@
+<resources>
+    <style name="Theme.Wird" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/wird_primary</item>
+        <item name="colorPrimaryVariant">@color/wird_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:navigationBarColor">@color/wird_dark</item>
+        <item name="android:windowBackground">@color/wird_launch_bg</item>
+        <item name="android:windowDisablePreview">false</item>
+        <item name="android:forceDarkAllowed">false</item>
+    </style>
+
+    <style name="Theme.Wird.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/wird_launch_bg</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/wird_splash_word</item>
+        <item name="windowSplashScreenAnimationDuration">180</item>
+        <item name="postSplashScreenTheme">@style/Theme.Wird</item>
+    </style>
+</resources>

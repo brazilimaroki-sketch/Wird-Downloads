@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true">
+    <LinearLayout android:id="@+id/qiblaRoot" android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:orientation="vertical" android:gravity="center_horizontal" android:paddingBottom="28dp">
+        <LinearLayout android:id="@+id/qiblaHero" android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:orientation="vertical" android:gravity="center_horizontal" android:paddingStart="18dp"
+            android:paddingTop="18dp" android:paddingEnd="18dp" android:paddingBottom="22dp"
+            android:background="@drawable/qibla_hero_background">
+            <FrameLayout android:layout_width="match_parent" android:layout_height="48dp">
+                <TextView android:id="@+id/qiblaBack" android:layout_width="44dp" android:layout_height="44dp"
+                    android:layout_gravity="start|center_vertical" android:gravity="center" android:text="‹"
+                    android:textColor="#FFFFFF" android:textSize="36sp" android:contentDescription="رجوع"
+                    android:background="@drawable/qibla_back_background" />
+                <TextView android:id="@+id/qiblaTitle" android:layout_width="wrap_content" android:layout_height="wrap_content"
+                    android:layout_gravity="center" android:text="اتجاه القبلة" android:textColor="#FFFFFF"
+                    android:textStyle="bold" android:textSize="25sp" />
+            </FrameLayout>
+            <TextView android:id="@+id/qiblaSubtitle" android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:layout_marginTop="2dp" android:text="ضع الهاتف أفقياً وحرّكه ببطء"
+                android:textColor="#DCEBFA" android:textSize="14sp" android:textAlignment="center" />
+            <com.wird.app.QiblaCompassView android:id="@+id/qiblaCompass" android:layout_width="320dp"
+                android:layout_height="320dp" android:layout_marginTop="14dp" android:contentDescription="بوصلة اتجاه القبلة" />
+            <TextView android:id="@+id/qiblaAligned" android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:layout_marginTop="8dp" android:paddingStart="16dp" android:paddingEnd="16dp"
+                android:paddingTop="8dp" android:paddingBottom="8dp" android:text="وجّه الهاتف نحو السهم الذهبي"
+                android:textColor="#FFFFFF" android:textStyle="bold" android:textSize="14sp"
+                android:background="@drawable/qibla_status_background" />
+        </LinearLayout>
+
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="18dp"
+            android:orientation="vertical" android:background="@drawable/qibla_info_background" android:padding="16dp">
+            <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal" android:layoutDirection="rtl">
+                <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:orientation="vertical" android:gravity="center">
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="اتجاه القبلة" android:textColor="#65778A" android:textSize="12sp" />
+                    <TextView android:id="@+id/qiblaBearing" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="—°" android:textColor="#173E70" android:textStyle="bold" android:textSize="23sp" />
+                </LinearLayout>
+                <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:orientation="vertical" android:gravity="center">
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="اتجاه الهاتف" android:textColor="#65778A" android:textSize="12sp" />
+                    <TextView android:id="@+id/qiblaHeading" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="—°" android:textColor="#173E70" android:textStyle="bold" android:textSize="23sp" />
+                </LinearLayout>
+            </LinearLayout>
+            <TextView android:id="@+id/qiblaAccuracy" android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:layout_marginTop="13dp" android:text="دقة البوصلة: في انتظار المستشعر" android:textColor="#65778A"
+                android:textSize="13sp" android:textAlignment="center" />
+            <TextView android:id="@+id/qiblaInfo" android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:layout_marginTop="8dp" android:text="حرّك الهاتف على شكل 8 لمعايرة البوصلة"
+                android:textColor="#243746" android:textSize="14sp" android:lineSpacingExtra="4dp"
+                android:textAlignment="center" android:textDirection="rtl" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

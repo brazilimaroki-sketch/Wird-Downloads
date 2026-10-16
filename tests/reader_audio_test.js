@@ -1,0 +1,11 @@
+const {JSDOM}=require('jsdom'),assert=require('assert'),fs=require('fs'),path=require('path');
+const dom=new JSDOM('<button id="playBtn"></button><div id="aya-1"></div>',{url:'https://appassets.androidplatform.net',runScripts:'outside-only'}),w=dom.window;
+let objects=[],revoked=[],sourceCount=0;
+Object.assign(w,{state:{sura:1,aya:1,repeatCount:3,autoPlay:false},ayaAudioUrl:()=> 'https://audio.test/001001.mp3',toast:()=>{},reciterInfo:()=>({id:'test'}),openSurah:()=>{},saveAyaPosition:()=>{},updateAudioStatus:()=>{},nextPlayableAya:()=>null,hafsCachedAudioV7577:async()=>new Blob(['data']),Audio:class{constructor(src){this.src=src;objects.push(this)}play(){return Promise.resolve()}pause(){}}});
+w.URL.createObjectURL=()=>`blob:test${++sourceCount}`;w.URL.revokeObjectURL=x=>revoked.push(x);w.HTMLElement.prototype.scrollIntoView=()=>{};
+const html=fs.readFileSync(path.join(__dirname,'../app/src/main/assets/index.html'),'utf8');w.eval(html.slice(html.indexOf('let audioRequestV7577=0;'),html.indexOf('function showSearch(){')));
+const wait=ms=>new Promise(r=>setTimeout(r,ms));
+(async()=>{await w.playAya(1,1);assert.equal(objects.length,1);assert(objects[0].src.startsWith('blob:'));objects[0].onended();await wait(300);assert.equal(objects.length,2);objects[1].onended();await wait(300);assert.equal(objects.length,3);objects[2].onended();await wait(300);assert.equal(objects.length,3);assert.equal(w.state.repeatRemaining,0);assert.equal(revoked.length,3);
+ await w.playAya(1,1);objects.at(-1).onended();w.stopAudio();const n=objects.length;await wait(300);assert.equal(objects.length,n,'stop must cancel queued repeat');
+ let release;w.hafsCachedAudioV7577=()=>new Promise(r=>release=r);const pending=w.playAya(1,1);w.stopAudio();release(null);await pending;assert.equal(objects.length,n,'stop must cancel pending cache playback');
+ console.log('Cached audio playback, exact repeat count, queued-repeat cancellation and cache-await cancellation passed');dom.window.close();})().catch(e=>{console.error(e);dom.window.close();process.exitCode=1});

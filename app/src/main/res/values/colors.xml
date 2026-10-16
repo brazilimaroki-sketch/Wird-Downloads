@@ -1,0 +1,9 @@
+<resources>
+    <color name="wird_primary">#245F9E</color>
+    <color name="wird_dark">#163F73</color>
+    <color name="wird_icon_bg">#004B35</color>
+    <color name="wird_launch_bg">#F1F5FA</color>
+    <color name="wird_launch_text">#17324D</color>
+    <color name="wird_accent">#D4A83D</color>
+    <color name="white">#FFFFFF</color>
+</resources>

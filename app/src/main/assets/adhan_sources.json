@@ -1,0 +1,159 @@
+{
+  "repository": "https://github.com/abodehq/Athan-MP3",
+  "files": [
+    {
+      "id": "abdul_basit",
+      "name": "عبد الباسط عبد الصمد",
+      "resource": "adhan_abdul_basit",
+      "fajrOnly": false,
+      "sourceFile": "Athan Abed Albase6.mp3",
+      "sourceUrl": "https://raw.githubusercontent.com/abodehq/Athan-MP3/master/Sounds/Athan%20Abed%20Albase6.mp3",
+      "sha256": "73bffee51e6f2d24acd52dd5eb9a1e74d3b3cd3ef6bee2db3f9aec62e6da2fef",
+      "duration": 200.836,
+      "bundledSha256": "daeb7f834649be602a9c96dd6fd23a919170881a06438477c86b7a0eec053c42"
+    },
+    {
+      "id": "ahmad_nuaina",
+      "name": "أحمد نعينع",
+      "resource": "adhan_ahmad_nuaina",
+      "fajrOnly": false,
+      "sourceFile": "Athan Ahmad Nuyne3.mp3",
+      "sourceUrl": "https://raw.githubusercontent.com/abodehq/Athan-MP3/master/Sounds/Athan%20Ahmad%20Nuyne3.mp3",
+      "sha256": "7deb1fff70cee6a848acc2aaf342a5353aec6828e5e57c63f595be8ea5c6c36c",
+      "duration": 210.124,
+      "bundledSha256": "6689c8a175825e609276aa3454b524e57aa889523311263ab3dee4f1c6cbf789"
+    },
+    {
+      "id": "malek_fajr",
+      "name": "Malek chebae — أذان الفجر",
+      "resource": "adhan_malek_fajr",
+      "fajrOnly": true,
+      "sourceFile": "Athan Al-fajer - Malek chebae.mp3",
+      "sourceUrl": "https://raw.githubusercontent.com/abodehq/Athan-MP3/master/Sounds/Athan%20Al-fajer%20-%20Malek%20chebae.mp3",
+      "sha256": "89580ee0304ba7812822ba3b2de0cf4a0534bb4a1ee9220c5c98f9075da318c6",
+      "duration": 250.321256,
+      "bundledSha256": "6111d9c785b8af83cd21420129866fa64fac313406a1a6c9e39595d41649d11e"
+    },
+    {
+      "id": "hamad_deghreri",
+      "name": "حمد الدغريري",
+      "resource": "adhan_hamad_deghreri",
+      "fajrOnly": false,
+      "sourceFile": "Athan Hamad Deghreri.mp3",
+      "sourceUrl": "https://raw.githubusercontent.com/abodehq/Athan-MP3/master/Sounds/Athan%20Hamad%20Deghreri.mp3",
+      "sha256": "90c46eb25feafdbb590752d16a43d5895f8806ca6454bec567a9ab8ce55cb74d",
+      "duration": 161.165378,
+      "bundledSha256": "7b21bd6a3ac390313aaa11d066491647ac8ada07dc2825c52eaf1db4328bd396"
+    },
+    {
+      "id": "hamdan_almalki",
+      "name": "حمدان المالكي",
+      "resource": "adhan_hamdan_almalki",
+      "fajrOnly": false,
+      "sourceFile": "Athan Hamdan Almalki.mp3",
+      "sourceUrl": "https://raw.githubusercontent.com/abodehq/Athan-MP3/master/Sounds/Athan%20Hamdan%20Almalki.mp3",
+      "sha256": "eddf7dfb3b57f08cc3f27ef8d54695e8584faab99824d31835c348698a5e0567",
+      "duration": 266.718188,
+      "bundledSha256": "b4880217aae9e7514934705961ce3c35554a2447ebbb874f1f9480b262b24145"
+    },
+    {
+      "id": "ibrahim_arkani",
+      "name": "إبراهيم الأركاني",
+      "resource": "adhan_ibrahim_arkani",
+      "fajrOnly": false,
+      "sourceFile": "Athan Ibrahim Al-Arkani.mp3",
+      "sourceUrl": "https://raw.githubusercontent.com/abodehq/Athan-MP3/master/Sounds/Athan%20Ibrahim%20Al-Arkani.mp3",
+      "sha256": "8414483e630efe001e2c29eee3ff02fb62178f37372bf3ef7f24bd386e5c8462",
+      "duration": 240.603756,
+      "bundledSha256": "2c93efc525ff086b4449fff808f4e6ad013266738a49568f548dcd14dde63fba"
+    },
+    {
+      "id": "majed_hamathani",
+      "name": "Majed Al-hamathani",
+      "resource": "adhan_majed_hamathani",
+      "fajrOnly": false,
+      "sourceFile": "Athan Majed Al-hamathani.mp3",
+      "sourceUrl": "https://raw.githubusercontent.com/abodehq/Athan-MP3/master/Sounds/Athan%20Majed%20Al-hamathani.mp3",
+      "sha256": "246b2de1a7a4242bd8005f7ea00c5d89472e453c78c710eadd1879e6f0f6f9d4",
+      "duration": 226.027378,
+      "bundledSha256": "6ac79b5cb05bca0999f46660def7fe8f116e0f93139b4f14318cdbee4663b088"
+    },
+    {
+      "id": "makkah",
+      "name": "أذان مكة",
+      "resource": "adhan_makkah",
+      "fajrOnly": false,
+      "sourceFile": "Athan Makkah.mp3",
+      "sourceUrl": "https://raw.githubusercontent.com/abodehq/Athan-MP3/master/Sounds/Athan%20Makkah.mp3",
+      "sha256": "4ab22d15fcea1a70f636b50f21e3f82597fa583ec2a21065373b3bde87482647",
+      "duration": 202.528,
+      "bundledSha256": "db4e925a781da670f88491efc44ed34682c4828a39260d593f851c866e7a4412"
+    },
+    {
+      "id": "mansoor_zahrani",
+      "name": "منصور الزهراني",
+      "resource": "adhan_mansoor_zahrani",
+      "fajrOnly": false,
+      "sourceFile": "Athan Mansoor Az-Zahrani.mp3",
+      "sourceUrl": "https://raw.githubusercontent.com/abodehq/Athan-MP3/master/Sounds/Athan%20Mansoor%20Az-Zahrani.mp3",
+      "sha256": "b4d596a8d60f3120ed6a3d0709dd63cd589b35d4bcc9a792bfc74da80f2a14f2",
+      "duration": 190.762,
+      "bundledSha256": "4dd301083b438d533d743e79918b7c5daf7b29b7b5b14845f22b29321a641605"
+    },
+    {
+      "id": "mishary_afasi",
+      "name": "مشاري العفاسي",
+      "resource": "adhan_mishary_afasi",
+      "fajrOnly": false,
+      "sourceFile": "Athan Mishary Alafasi.mp3",
+      "sourceUrl": "https://raw.githubusercontent.com/abodehq/Athan-MP3/master/Sounds/Athan%20Mishary%20Alafasi.mp3",
+      "sha256": "06a9ef43abf7a8907df477a878704d0679d941886273b1a1834e15c2934a1629",
+      "duration": 240.577625,
+      "bundledSha256": "a8dfd5a0d6c9125c2172a53054f5036648808738d5404e35bdf8af5fe01abe92"
+    },
+    {
+      "id": "mohammad_minshawi",
+      "name": "محمد صديق المنشاوي",
+      "resource": "adhan_mohammad_minshawi",
+      "fajrOnly": false,
+      "sourceFile": "Athan Mohammad Almenshawy.mp3",
+      "sourceUrl": "https://raw.githubusercontent.com/abodehq/Athan-MP3/master/Sounds/Athan%20Mohammad%20Almenshawy.mp3",
+      "sha256": "95b48f013fa9f611922cc9edabc576734fc7e0cf0fce0ccf86c53960b975233a",
+      "duration": 251.632,
+      "bundledSha256": "4e84420071c220036f393b0795c80886bf2539fe513fdcff771d8adaf7b776cb"
+    },
+    {
+      "id": "mohammad_refaat",
+      "name": "محمد رفعت",
+      "resource": "adhan_mohammad_refaat",
+      "fajrOnly": false,
+      "sourceFile": "Athan Mohammad Ref3at.mp3",
+      "sourceUrl": "https://raw.githubusercontent.com/abodehq/Athan-MP3/master/Sounds/Athan%20Mohammad%20Ref3at.mp3",
+      "sha256": "39964e1b6df88cfc30e66ca18cbc8efe5829fbf82d24210ebddc3d435eebd96c",
+      "duration": 203.716,
+      "bundledSha256": "0253af1750e159f1d9a96319af9c0e3ba3e45fbd5a42030ecb8a5b9c9c64f229"
+    },
+    {
+      "id": "nasser_qatami",
+      "name": "ناصر القطامي",
+      "resource": "adhan_nasser_qatami",
+      "fajrOnly": false,
+      "sourceFile": "Athan Nasser Alqatami.mp3",
+      "sourceUrl": "https://raw.githubusercontent.com/abodehq/Athan-MP3/master/Sounds/Athan%20Nasser%20Alqatami.mp3",
+      "sha256": "b30f4e2c44d6fcb975d2c2f797590dfb11061b11ab7e8fc5d2cdb3ea86b92fbe",
+      "duration": 139.379256,
+      "bundledSha256": "b743886feb7557c30aec8636a94fcdbbdbd14f58ecc302a9aa4f53a2280e70eb"
+    },
+    {
+      "id": "suhaib_khatba",
+      "name": "Suhaib Khatba",
+      "resource": "adhan_suhaib_khatba",
+      "fajrOnly": false,
+      "sourceFile": "Athan Suhaib Khatba.mp3",
+      "sourceUrl": "https://raw.githubusercontent.com/abodehq/Athan-MP3/master/Sounds/Athan%20Suhaib%20Khatba.mp3",
+      "sha256": "6a3bf19385ec0f6ddec32a17effeda8bf90e48988864d1b5de2e2edb42785eb1",
+      "duration": 183.098,
+      "bundledSha256": "6e6541aae4255c9a23d023ff0074e75ca2f5e9e554a0270edcbdb9c158287bce"
+    }
+  ]
+}

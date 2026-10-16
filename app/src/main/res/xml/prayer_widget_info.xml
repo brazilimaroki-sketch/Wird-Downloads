@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<appwidget-provider xmlns:ns0="http://schemas.android.com/apk/res/android" ns0:minWidth="130dp" ns0:minHeight="110dp" ns0:targetCellWidth="2" ns0:targetCellHeight="2" ns0:minResizeWidth="130dp" ns0:minResizeHeight="90dp" ns0:updatePeriodMillis="1800000" ns0:initialLayout="@layout/widget_prayer_tall" ns0:resizeMode="horizontal|vertical" ns0:widgetCategory="home_screen" ns0:previewLayout="@layout/widget_prayer_tall" ns0:description="@string/prayer_widget_description" ns0:maxResizeHeight="180dp" />

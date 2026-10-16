@@ -1,0 +1,110 @@
+/* Shared UI polish. Quran page typography and widget provider dimensions are independent. */
+.settingsSheetV7571{max-height:88dvh;margin:0 auto;padding:12px 16px calc(24px + env(safe-area-inset-bottom));color:var(--ink);overscroll-behavior:contain}
+.settingsHeadingV7571{position:sticky;top:-12px;z-index:2;display:flex;align-items:center;justify-content:space-between;gap:12px;background:var(--card);padding:10px 0;border-bottom:1px solid var(--line);margin-bottom:14px}
+.settingsHeadingV7571 h3{margin:0;font-size:22px}
+.settingsGroupV7571{border:1px solid var(--line);background:var(--card);border-radius:16px;margin:12px 0;overflow:hidden}
+.settingsGroupV7571>summary{display:flex;align-items:center;justify-content:space-between;gap:12px;list-style:none;padding:16px;font-size:17px;font-weight:800;cursor:pointer;min-height:56px}
+.settingsGroupV7571>summary::-webkit-details-marker{display:none}
+.settingsGroupV7571>summary:after{content:'+';font-size:24px;line-height:1;color:var(--ink)}
+.settingsGroupV7571[open]>summary:after{content:'−'}
+.settingsGroupV7571[open]>summary{border-bottom:1px solid var(--line)}
+.settingsGroupBodyV7571{padding:14px}
+.settingsSheetV7571 .meta,.settingsSheetV7571 .remindersV79Intro,.settingsSheetV7571 .mushafBtn small{font-size:14px!important;line-height:1.8!important;color:var(--ink)!important;opacity:.85}
+.settingsSheetV7571 .setting{gap:10px;padding:14px 0;min-height:56px}
+.settingsSheetV7571 .setting strong{font-size:16px;line-height:1.6}
+.settingsSheetV7571 .setting .grow{min-width:0}
+.settingsSheetV7571 .setting .w82Icon{margin-left:5px;color:var(--accent)}
+.settingsSheetV7571 .switch{flex:0 0 48px;border:0;padding:0;cursor:pointer}
+.settingsSheetV7571 .appThemeIntro>strong,.settingsSheetV7571 .appThemeIntro+.appThemeGrid+.hr{display:none}
+.settingsSheetV7571 .appThemeChoice{font-size:14px;min-height:74px;color:var(--ink)}
+.settingsSheetV7571 .appThemeChoice.active{border-color:var(--accent);box-shadow:none}
+.settingsSheetV7571 .appThemeChoice.active:after{background:var(--accent);color:#1b231f;font-size:12px}
+.settingsSheetV7571 .mushafChoice{gap:8px}
+.settingsSheetV7571 .mushafBtn{font-size:15px;line-height:1.7;min-height:80px}
+.settingsSheetV7571 .chips{flex-wrap:wrap;overflow:visible;gap:8px;padding:8px 0}
+.settingsSheetV7571 .chip{font-size:14px;min-height:44px}
+.settingsSheetV7571 .widgetCardV79{margin:0;border:0;border-radius:0;padding:0;background:transparent}
+.settingsSheetV7571 .widgetCardV79 h3{display:none}
+.settingsSheetV7571 .widgetSizeChoicesV7558{gap:8px;margin:12px 0 0}
+.settingsSheetV7571 .widgetSizeChoicesV7558 button{font-size:14px;line-height:1.6;padding:12px 6px;margin:0;min-height:62px;background:var(--bg);color:var(--ink);border:1px solid var(--line)}
+.settingsSheetV7571 .widgetSizeChoicesV7558 bdi{display:block;font-size:17px;margin-top:4px}
+.sheet .btn:not(.primary):not(.soft){background:color-mix(in srgb,var(--primary) 10%,var(--card));border:1px solid var(--line);color:var(--ink);font:inherit;font-size:14px;font-weight:700;min-height:44px;padding:10px 12px}
+.sheet .btn:not(.primary):not(.soft):active{background:color-mix(in srgb,var(--primary) 20%,var(--card))}
+.settingsSheetV7571 button:focus-visible,.settingsGroupV7571>summary:focus-visible,.prayerSourceV7571>summary:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+.prayerHero .prayerPlace{font-size:16px;line-height:1.7;opacity:1;color:#fff}
+.prayerSourceV7571{margin:10px auto 0;max-width:540px;color:#fff;font-size:14px;text-align:right}
+.prayerSourceV7571 summary{cursor:pointer;padding:10px 12px;border:1px solid #ffffff55;background:#00000025;border-radius:12px;min-height:44px;text-align:center}
+.prayerSourceV7571 p{font-size:14px;line-height:1.8;margin:10px 0 0;padding:12px;background:#00000030;border-radius:12px;overflow-wrap:anywhere}
+.remindersV79Intro,.silentHintV75Adhan,.adhanStatus{font-size:14px!important;line-height:1.8!important}
+.home50PrayerPlace{font-size:14px!important}
+.homeDateSourceV7567{font-size:13px}
+.prayerSettings .prayerSelect,.prayerSettings .prayerInput{border-color:var(--line);min-height:48px;font-size:15px}
+@media(max-width:360px){.settingsSheetV7571{padding-inline:12px}.settingsGroupBodyV7571{padding:10px}.settingsSheetV7571 .setting{flex-wrap:wrap}.settingsSheetV7571 .setting .grow{flex-basis:60%}.settingsSheetV7571 .mushafChoice{grid-template-columns:1fr}.settingsSheetV7571 .widgetSizeChoicesV7558{grid-template-columns:1fr}.settingsSheetV7571 .widgetSizeChoicesV7558 bdi{display:inline-block;margin:0 8px}.settingsSheetV7571 .widgetSizeChoicesV7558 button{min-height:48px}}
+
+.memCtl .w82Icon,.memBack .w82Icon{width:24px;height:24px}.memMic .w82Icon{width:30px;height:30px}.memBack{display:grid;place-items:center}
+
+body.night .azkarTile b .w82Icon,body.night .mushafIconV80{color:var(--accent)!important}.home50Meta{font-size:15px!important}#hijri-today-v75x,#hijri-corrected-v75x{font-size:14px;line-height:1.8;color:var(--ink)}
+
+/* Remaining readability and spacing improvements, 75.72. */
+.home50 .home50Meta{font-size:15px!important;line-height:1.85!important;opacity:1!important}
+.home50PrayerTime{font-size:12px!important;line-height:1.6!important;padding:9px 2px!important}
+.home50PrayerTime b{font-size:14px!important;font-variant-numeric:tabular-nums}
+.home50PrayerTime.next{color:#1e251c!important}
+.v60-meta,.v75-rq-source,.v75-rq-progress,.v62-rq-intro,.v61-rq-note{font-size:14px!important;line-height:1.85!important;color:var(--muted)!important;opacity:1!important}
+.v61-rq-title,.v60-group{color:var(--ink)!important;font-size:20px;line-height:1.7}
+.v60-head p{font-size:14px;line-height:1.85;color:#fff;opacity:1}
+.v60-counter{color:var(--ink);font-size:15px;line-height:1.7;flex-wrap:wrap;gap:12px}
+.v60-counter>div{display:flex;align-items:center;gap:8px}
+.v60-counter button{width:44px;height:44px;background:var(--bg);color:var(--ink);border:1px solid var(--line);font-size:24px;cursor:pointer}
+.v60-counter strong{display:inline-flex;justify-content:center;align-items:center;min-width:48px;min-height:44px;font-size:22px;color:var(--ink);font-variant-numeric:tabular-nums}
+.v60-counter button:active{background:color-mix(in srgb,var(--primary) 18%,var(--card))}
+.v60-counter button:focus-visible,.azkarTile:focus-visible,.v62-rq-card:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+.v60-back,.v61-rq-back{color:var(--ink)!important;background:var(--card)!important;border:1px solid var(--line);min-height:44px;font-size:14px}
+.azkarGrid .azkarTile:not(.ruqyahFeatureV84){display:flex!important;flex-direction:column;justify-content:center;align-items:flex-start;gap:10px;min-height:136px!important;padding:14px 16px!important}
+.azkarGrid .azkarTile:not(.ruqyahFeatureV84)>b{width:52px;height:52px;margin:0!important;flex:0 0 52px}
+.azkarGrid .azkarTile>b .w82Icon{width:34px!important;height:34px!important;color:var(--accent)!important}
+.azkarGrid .azkarTile>span{font-size:20px!important;line-height:1.5!important;overflow-wrap:anywhere}
+.azkarGrid .ruqyahFeatureV84{min-height:120px!important;grid-template-columns:52px minmax(0,1fr)!important;padding:16px!important;column-gap:14px!important}
+.azkarGrid .ruqyahFeatureV84>b{width:52px;height:52px}
+.azkarGrid .ruqyahFeatureV84>small{font-size:14px;line-height:1.8;color:var(--muted);opacity:1}
+.v62-rq-card{min-height:140px!important;justify-content:flex-start!important;gap:10px;padding:14px!important;background:var(--card)!important;border-color:var(--line)!important}
+.v62-rq-card .ico{width:44px;height:44px;align-self:flex-start;color:var(--accent)!important}
+.v62-rq-card .ico .w82Icon{width:36px!important;height:36px!important}
+.v62-rq-card strong{font-size:18px;line-height:1.6;color:var(--ink)!important}
+.v62-rq-card small{font-size:14px;line-height:1.8;color:var(--muted)!important;margin-top:4px}
+.update103Logo{width:112px;height:112px;margin:0 auto 16px;border:0;border-radius:0;background:transparent;box-shadow:none;display:grid;place-items:center}
+.update103Logo img{display:block;width:100%;height:100%;object-fit:contain;filter:drop-shadow(0 4px 8px #0003)}
+.update103Hero p,.update103Safe,.update103Steps{font-size:15px;line-height:1.9;opacity:1}
+@media(max-width:360px){.azkarGrid{gap:10px}.azkarGrid .azkarTile:not(.ruqyahFeatureV84){padding:14px 12px!important}.azkarGrid .azkarTile>span{font-size:19px!important}.home50PrayerTime{font-size:11px!important}.home50PrayerTime b{font-size:13px!important}}
+
+body:not(.night) .azkarGrid .azkarTile>b .w82Icon,body:not(.night) .v62-rq-card .ico{color:#896419!important}
+body[class*="app-theme-"] .home50Prayer,body[class*="app-theme-"] .home50Mem,body[class*="app-theme-"] .v60-head,.update103Hero{background:linear-gradient(145deg,color-mix(in srgb,var(--primary) 78%,#000),color-mix(in srgb,var(--primary2) 92%,#000))!important}
+
+/* More is an ordinary top-level page, not an overlay. */
+.morePageV7573.settingsSheetV7571{max-height:none;margin:0;padding:0 0 24px;overflow:visible;color:var(--ink)}
+.morePageV7573 .settingsHeadingV7571{position:static;top:auto;background:transparent;padding:6px 2px 12px;margin-bottom:12px;border-bottom:0}
+.morePageV7573 .settingsHeadingV7571 h3{font-size:25px}
+.morePageV7573 .btn:not(.primary):not(.soft){background:color-mix(in srgb,var(--primary) 10%,var(--card));border:1px solid var(--line);color:var(--ink);font:inherit;font-size:14px;font-weight:700;min-height:44px;padding:10px 12px;border-radius:12px}
+
+body.memTesting .memControls{bottom:var(--mem-nav-space,72px);width:min(680px,100%);left:50%;right:auto;transform:translateX(-50%);background:var(--primary2)}
+body.memTesting .memVoiceStatus{bottom:calc(var(--mem-nav-space,72px) + 92px)}
+body.memTesting .memStage{min-height:calc(100dvh - 100px);padding-bottom:calc(var(--mem-nav-space,72px) + 160px)}
+body.memTesting .memStageTop{top:var(--mem-header-space,90px)}
+body.memTesting .memLive{top:calc(var(--mem-header-space,90px) + 76px)}
+.updateNoticeV7574{max-width:654px;margin:12px auto;padding:14px;border:1px solid var(--accent);border-radius:16px;background:var(--card);color:var(--ink);display:flex;flex-wrap:wrap;gap:12px;align-items:center;font-size:14px;line-height:1.7}
+.updateNoticeV7574 strong{flex:1;min-width:160px}.updateNoticeV7574 button{min-height:44px;border:1px solid var(--line);border-radius:12px;background:var(--bg);color:var(--ink);padding:10px 12px;font:inherit;cursor:pointer}
+.updateNoticeV7574 .updateDownload{background:var(--primary2);color:#fff}
+body.memTesting .updateNoticeV7574{display:none}
+
+/* Prayer diagnostics and per-city settings: readable, scoped, native-backed. */
+.prayerToolsV7581{margin-top:20px;border:1px solid var(--border,rgba(128,128,128,.3));border-radius:16px;padding:14px;background:var(--card,transparent);color:var(--text,inherit)}
+.prayerToolsV7581 summary{font-size:17px;font-weight:700;cursor:pointer;line-height:1.7}
+.prayerToolsBody p{font-size:15px;line-height:1.8;overflow-wrap:anywhere;margin:10px 0}
+.prayerToolsBody h3{margin:22px 0 8px;font-size:18px}
+.prayerToolsOffsets{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin:14px 0}
+.prayerToolsOffsets label{display:flex;flex-direction:column;gap:7px;font-size:16px}
+.prayerToolsOffsets input{min-height:44px;min-width:0;width:100%;box-sizing:border-box;border:1px solid #829699;border-radius:10px;padding:8px;font:inherit;font-size:18px;text-align:center;color:inherit;background:transparent;direction:ltr}
+.prayerToolsBody button{min-height:44px;margin:4px 0;max-width:100%;white-space:normal}
+.prayerToolsWarning,.prayerToolsMessage{font-weight:700}
+
+.prayerToolsTimes table{width:100%;border-collapse:collapse;font-size:15px;margin:14px 0}.prayerToolsTimes th,.prayerToolsTimes td{padding:8px 4px;text-align:center;border-bottom:1px solid #82969955}.prayerToolsTimes caption{padding:8px;font-weight:700}.prayerToolsFormat pre{overflow-x:auto;font-size:12px;line-height:1.8;padding:8px}

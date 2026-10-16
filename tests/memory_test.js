@@ -1,0 +1,23 @@
+const assert=require('node:assert/strict'),fs=require('node:fs'),vm=require('node:vm');
+const dir=require('node:path').join(__dirname,'../app/src/main/assets/');
+const M=require(dir+'wird_memory.js');
+const text=['بسم الله الرحمن الرحيم','الحمد لله رب العالمين','الرحمن الرحيم','مالك يوم الدين','إياك نعبد وإياك نستعين','اهدنا الصراط المستقيم','صراط الذين أنعمت عليهم غير المغضوب عليهم ولا الضالين'];
+const verses=text.map((text,i)=>({number:i+1,text}));
+let m=M.create(verses);m.feed('بسم الله');for(let i=0;i<30;i++)m.feed('بسم الله');assert.equal(m.completed().length,0);assert.equal(m.partial(),'بسم الله');assert(!m.isComplete());assert(!m.report()[0].issues.length);
+m.feed('بسم الله الرحمن الرحيم');assert.equal(m.completed().length,1);for(const line of text.slice(1))m.feed(line);assert(m.isComplete());assert(m.report().every(x=>!x.issues.length));
+m=M.create(verses);for(let i=0;i<20;i++)m.feed('هذا كلام خارج السورة');assert.equal(m.completed().length,0);assert(m.report()[0].unread);assert(m.report()[0].issues.every(x=>x.type==='unconfirmed'));m.feed(text[0]);assert.equal(m.completed().length,1);
+m=M.create(verses);m.feed(text[1]);assert.equal(m.completed().length,2);assert.equal(m.report()[0].issues.length,4);
+m=M.create([{number:1,text:text[1]}]);m.feed('الحمد لله رب الناس');assert(m.isComplete());assert.equal(m.report()[0].issues[0].heard,'الناس');assert.equal(m.report()[0].issues[0].expected,'العالمين');
+m=M.create(verses);m.feed('بسم الله');m.feed('الرحمن الرحيم الحمد لله رب العالمين الرحمن الرحيم');assert.equal(m.completed().length,3);assert(m.report().every(x=>!x.issues.length));
+m=M.create(verses);m.skipVerse();assert.equal(m.completed().length,1);assert(m.report()[1].unread);
+const html=fs.readFileSync(dir+'index.html','utf8');for(const x of html.matchAll(/<script\b([^>]*)>([\s\S]*?)<\/script>/g))if(!x[1].includes('src='))new vm.Script(x[2]);
+const els={};const el=id=>els[id]??={value:'1',textContent:'',innerHTML:'',classList:{add(){},remove(){},contains(){return true}},remove(){}};
+class SR{start(){this.onstart()}stop(){}}
+const ctx={console,Set,localStorage:{getItem(){return null},setItem(){}},SURAHS:[{soraid:1,name:'الفاتحة'}],bySura:new Map([[1,text.map((t,i)=>[1,i+1,0,0,0,0,0,t])]]),quranText:x=>x[7],esc:s=>s,content:el('content'),homeView:el('home'),readerView:el('reader'),state:{},setNav(){},toast(){},setTimeout(){return 1},clearTimeout(){},document:{body:el('body'),getElementById:el,querySelectorAll:()=>[]}};ctx.window=ctx;ctx.addEventListener=()=>{};ctx.scrollTo=()=>{};ctx.SpeechRecognition=SR;vm.createContext(ctx);vm.runInContext(fs.readFileSync(dir+'wird_memory.js','utf8'),ctx);vm.runInContext(html.match(/<script id="v34-memorization-test">([\s\S]*?)<\/script>/)[1],ctx);
+ctx.startMemorizationTest();ctx.toggleMemRecognition();const r=ctx.MEM.recog;const result=(t,f)=>Object.assign([{transcript:t}],{isFinal:f});
+r.onresult({resultIndex:0,results:[result('بسم الله',false)]});assert(el('memLive').textContent.includes('بسم الله'));assert.equal(ctx.MEM.idx,0);
+let results=[];for(let i=0;i<12;i++){results.push(result('بسم الله',true));r.onresult({resultIndex:i,results});}assert.equal(ctx.MEM.idx,0);assert(!ctx.MEM.finished);ctx.memWordHint();assert(el('memHintBox').innerHTML.includes('الرحمن'));
+results.push(result('بسم الله الرحمن الرحيم',true));r.onresult({resultIndex:12,results});assert.equal(ctx.MEM.idx,1);r.onresult({resultIndex:12,results});assert.equal(ctx.MEM.idx,1);
+for(let i=1;i<text.length;i++){results.push(result(text[i],true));r.onresult({resultIndex:results.length-1,results});}assert(ctx.MEM.finished);assert(ctx.content.innerHTML.includes('لم تظهر اختلافات'));
+ctx.startMemorizationTest();ctx.toggleMemRecognition();r.onresult({resultIndex:0,results:[result('الحمد لله رب العالمين',false)]});ctx.finishMemorizationTest();assert(ctx.content.innerHTML.includes('لم يُتعرّف على'));assert(ctx.content.innerHTML.includes('لم تكتمل قراءة'));
+console.log('Passed: repeated/cumulative recognition, unrelated speech, genuine repeated Quran phrases, chunk boundaries, substitutions, interim UI, deduplication, completion and early review.');

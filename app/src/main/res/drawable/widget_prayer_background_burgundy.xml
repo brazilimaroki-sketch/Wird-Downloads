@@ -1,0 +1,1 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"><item><shape android:shape="rectangle"><gradient android:startColor="#5A2B3A" android:endColor="#311F29" android:angle="270"/><corners android:radius="24dp"/></shape></item><item android:drawable="@drawable/widget_theme_ornament" android:gravity="fill"/></layer-list>

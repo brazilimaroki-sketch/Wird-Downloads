@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">وِرد</string>
+    <string name="prayer_widget_description">الصلاة القادمة والوقت المتبقي</string>
+    <string name="widget_small">وِرد — صغير ⁦2×2⁩</string>
+    <string name="widget_medium">وِرد — متوسط عمودي ⁦2×2⁩</string>
+    <string name="widget_large">وِرد — كبير ⁦4×2⁩</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent" android:background="#071C2A">
+    <ImageView android:layout_width="match_parent" android:layout_height="match_parent"
+        android:src="@drawable/adhan_hassan_ii" android:scaleType="centerCrop" android:importantForAccessibility="no" />
+    <View android:layout_width="match_parent" android:layout_height="match_parent" android:background="@drawable/adhan_screen_background" />
+    <ScrollView android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true" android:clipToPadding="false">
+        <LinearLayout android:id="@+id/adhanContent" android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:orientation="vertical" android:gravity="center_horizontal" android:layoutDirection="rtl"
+            android:paddingStart="24dp" android:paddingEnd="24dp" android:paddingTop="24dp" android:paddingBottom="22dp">
+            <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="وِرد"
+                android:fontFamily="@font/wird_arabic_bold" android:textSize="30sp" android:textColor="#F4D584" android:gravity="center" android:includeFontPadding="false" />
+            <TextView android:id="@+id/adhanStatusTitle" android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:layout_marginTop="20dp" android:text="حان وقت الصلاة" android:fontFamily="@font/wird_arabic_regular"
+                android:textSize="22sp" android:textColor="#FFFFFF" android:gravity="center" android:includeFontPadding="false" />
+            <TextView android:id="@+id/adhanPrayerName" android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:layout_marginTop="6dp" android:text="المغرب" android:fontFamily="@font/wird_arabic_bold"
+                android:textSize="42sp" android:textColor="#FFFFFF" android:gravity="center" android:includeFontPadding="false" />
+            <TextView android:id="@+id/adhanCity" android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:layout_marginTop="6dp" android:text="بوجدور" android:fontFamily="@font/wird_arabic_regular"
+                android:textSize="21sp" android:textColor="#F4D584" android:gravity="center" android:includeFontPadding="false" />
+            <TextClock android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="12dp"
+                android:format12Hour="HH:mm" android:format24Hour="HH:mm" android:fontFamily="sans-serif-medium"
+                android:textSize="38sp" android:textColor="#FFFFFF" android:gravity="center" android:textDirection="ltr" />
+            <Space android:layout_width="1dp" android:layout_height="0dp" android:layout_weight="1" android:minHeight="110dp" />
+            <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="حيّ على الصلاة\nحيّ على الفلاح"
+                android:fontFamily="@font/wird_arabic_bold" android:textSize="30sp" android:textColor="#FFFFFF"
+                android:gravity="center" android:lineSpacingExtra="8dp" android:shadowColor="#B3000000" android:shadowRadius="5" android:shadowDy="2" />
+            <TextView android:id="@+id/adhanPhotoCredit" android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:layout_marginTop="10dp" android:minHeight="40dp" android:gravity="center" android:text="مسجد الحسن الثاني • الدار البيضاء"
+                android:fontFamily="@font/wird_arabic_regular" android:textSize="13sp" android:textColor="#DFE8EA" android:contentDescription="معلومات صورة مسجد الحسن الثاني" />
+            <Button android:id="@+id/adhanStopButton" android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:minHeight="64dp" android:layout_marginTop="12dp" android:backgroundTint="#E3BE63"
+                android:fontFamily="@font/wird_arabic_bold" android:text="إيقاف الأذان" android:textColor="#102A35" android:textSize="22sp" android:textAllCaps="false" />
+            <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="10dp"
+                android:gravity="center" android:text="اضغط على أي زر في الهاتف لإيقاف الأذان"
+                android:fontFamily="@font/wird_arabic_regular" android:textSize="14sp" android:textColor="#DFE8EA" />
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

@@ -1,0 +1,3047 @@
+{
+  "version": "75.81",
+  "build": 140,
+  "notice": "Excluded third-party media/data and binary tooling; no license is granted by this manifest.",
+  "files": [
+    {
+      "path": "app/src/main/assets/AALMAGHRIBI_v4.9.6.otf.ttf",
+      "size": 413484,
+      "sha256": "e22a1a83602ef28c80f10afa1e798de4b5a299cc3c2ef65873c11fd11e7d9ed3"
+    },
+    {
+      "path": "app/src/main/assets/KFGQPC_HAFS_Uthmanic_018.ttf",
+      "size": 242368,
+      "sha256": "a0636e68e375af9552470d67773936f54d536e6586ce2608311b2fe7f9cbec3a"
+    },
+    {
+      "path": "app/src/main/assets/app_logo.webp",
+      "size": 10606,
+      "sha256": "caffb6b78b64027287dabf7bf446167ba5142a240866e4ceab24e0f0d8e2be6c"
+    },
+    {
+      "path": "app/src/main/assets/me_quran.ttf",
+      "size": 459976,
+      "sha256": "83d56cab9933f9e3ac1361ac0e926324a1cc70f37c3bcc5b22f62f270160b4a0"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/1.json",
+      "size": 273003,
+      "sha256": "c04dc7d4cb4f71a636f0dc98df078fc155893eafbab2bd1bb9a28bfafc31156c"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/10.json",
+      "size": 360660,
+      "sha256": "7edfeb7c722de730d246bb8e81826ef554a6689753d9cec0a659a7d43841fa5c"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/100.json",
+      "size": 69295,
+      "sha256": "24fbd8a7475b14a49e7e67cf2a83ab9b358c6a2c8238e6edd3284dc370b58da8"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/101.json",
+      "size": 62700,
+      "sha256": "fc61e44f8b7309857a57a5a40a80ab405eabdee83819e74f3450661ac9f973ba"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/102.json",
+      "size": 77335,
+      "sha256": "2c6f93f0a7df71db2c82ec8d92bd9d2013cb3f4cbdbdab883265b070433640c1"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/103.json",
+      "size": 10165,
+      "sha256": "da9df5ed427fac227b220eb553404a8abd02a373a5be14ced0765da75e48e95e"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/104.json",
+      "size": 53368,
+      "sha256": "fcbae24da06f74bd08e1a13756fd21ca6708e1b8908ab6f6d8dd8cec1765f5b5"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/105.json",
+      "size": 60047,
+      "sha256": "1d57faa7e8eb4bb83728f2706dcba13862913088cde0bdde06fca5ccdc3907ca"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/106.json",
+      "size": 41995,
+      "sha256": "d70f618614728a3f7034c51fd174acadc9bd51085d534dd94a06576af5869ad3"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/107.json",
+      "size": 183704,
+      "sha256": "1a7372dc9a513a175ffe9bf94f4b88b1bfe14050a3b1956020f849051cd0a13c"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/108.json",
+      "size": 35280,
+      "sha256": "f29865017280607bb5802b9bf2b2e92565cb9561f25dd69442a42a41ec015a70"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/109.json",
+      "size": 109187,
+      "sha256": "700399147454a10c383423b06b273490cbfd1b83d247770e6be68be3d10bf7ff"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/11.json",
+      "size": 2359216,
+      "sha256": "4105895f2aa95af2dd91c05e43863388c1f0ac63ca249d7cb8d48b7cedac4231"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/110.json",
+      "size": 19129,
+      "sha256": "f2613e1640f1aa22be335ec4dcabfdd63d5925f05d4e2024beaa7d344e3d57cd"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/111.json",
+      "size": 42032,
+      "sha256": "3c9030354f155069e84d83089db8b436372259a49cd218377811fdde73718fb2"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/112.json",
+      "size": 118543,
+      "sha256": "ebdfe90206baf179cfa30e9820cc61bb7b09d8e2cf6856a3dbc18bff8ffd3abb"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/113.json",
+      "size": 198393,
+      "sha256": "1eca20f9c6c13cf2384f3b8378c015a7e480cacf5f45a78f8d6a192818ff2879"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/114.json",
+      "size": 22015,
+      "sha256": "18a83c2334d0c8c3a3eb702b90233bf4ace292802eea1f3c785c01817062b67d"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/12.json",
+      "size": 1318578,
+      "sha256": "7e9ee83665a60a7cd1e214cb603803258d0a13a714ff6a1036c9a666ef5315c7"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/13.json",
+      "size": 446218,
+      "sha256": "133d99fb34c0118f90ca4d7509ef05cc2a8ca9a5d05f05485006d697e747a7e1"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/14.json",
+      "size": 437491,
+      "sha256": "3b5bd3e98fbaaec3f24860d7f06423b3f7e67eca00195c90e8acbb81328280aa"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/15.json",
+      "size": 417858,
+      "sha256": "3d8145df27c8fa74dd60cb36ad6d401ea8461049eff0929d9c62787afc2ab3ac"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/16.json",
+      "size": 672545,
+      "sha256": "a8d1517eb972666c2ef734b94b2739e5ce5b71ca4cb069c68c0cfb66614c9195"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/17.json",
+      "size": 787963,
+      "sha256": "453eabaaa3cb1735be1c2b675dfa50c6096225ae6e740b7b8f3e229786743b6e"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/18.json",
+      "size": 2463989,
+      "sha256": "85d296f6b425cc320067aea07f398b29f668991ffaadefb082ee0ca870f2cbdd"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/19.json",
+      "size": 3143510,
+      "sha256": "472ddf6bee82c72fa0acc9ce181ba383b5787364f81f0e9036e907180112ce1c"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/2.json",
+      "size": 6397902,
+      "sha256": "deeebf616f1139a16cdde8df6c61338e821f164b36790d91ea7d26445ebbfc51"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/20.json",
+      "size": 2477840,
+      "sha256": "f2eef3101b95debf97d0c432b2f390cd906eb0d2e70cfe9f848ca3bd888325c8"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/21.json",
+      "size": 962936,
+      "sha256": "68441ab32819dd154421a2d54b4d14057e44f1c16c37e07202abce5554598fe5"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/22.json",
+      "size": 590946,
+      "sha256": "dd7853722a4eeaf0b3f3e9006a05c6852527a9ecb45079171ef86026b4a1e74b"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/23.json",
+      "size": 825077,
+      "sha256": "e83b24fb1b8bfc8d8b3868838ae15088b6bba08a357b9562f49a6c6db6b4fe61"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/24.json",
+      "size": 1996296,
+      "sha256": "d9aaf54b60a73e6811e5eff183aa9bfe231cd1bb97d6a7a7bfd9c7985a85202b"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/25.json",
+      "size": 631658,
+      "sha256": "b131f41b9bcf05b1fac9e01ca5a1f417c1a9f716f5d668b3ca8b3ae4b7144f28"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/26.json",
+      "size": 3395424,
+      "sha256": "6519244ef43f9bad30f92bd72895eb2ad81bcc86ee120bedf15b3e951aff8413"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/27.json",
+      "size": 1960862,
+      "sha256": "d9709d726f1567fd8e4122a10dc8981eaf9b956ef69bd12eced5cdfab33cc4de"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/28.json",
+      "size": 1231249,
+      "sha256": "10b89f780ccf65327cff89f6e086d03ffa6a8938e5637943af872b74e65b2410"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/29.json",
+      "size": 537111,
+      "sha256": "f9df2399a6f7fab6e329e838c6736dbbc71fc917ec1f3407edd0c9049031caa4"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/3.json",
+      "size": 2832052,
+      "sha256": "6aa98ee9e28ab90bb1cd9535ccaa9f8f917d0c68b531a0233b2877530774d7b1"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/30.json",
+      "size": 482627,
+      "sha256": "33897cc6d7dd2621a3118b390d3bd9c82df0847bbb9cde74dd20960e2c2510f6"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/31.json",
+      "size": 186392,
+      "sha256": "fe516808ccef4963d4b762dab3ff6972428e013ec3a077944b4f30630e743f5f"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/32.json",
+      "size": 155830,
+      "sha256": "d06931f2ab105b11efdf412ff50cad6b26b7a638c1d776974b983aa1c284a3ee"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/33.json",
+      "size": 792003,
+      "sha256": "e4ec172f735de4f486036c7ed01e9b86221d9c9e684c08efb9ca4e6592d32e5c"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/34.json",
+      "size": 347635,
+      "sha256": "1e4cd5112a240c82d3dc4b907533509f06d42dca06f7b446e7df848b591cc179"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/35.json",
+      "size": 326757,
+      "sha256": "4164d45a945d5fab330a0294c6b65a7eb15870060d415f28c1ddc7f9b42eff5b"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/36.json",
+      "size": 1088764,
+      "sha256": "926cf45b2ec265efc848d8bd00efd3e2edb5e9c9dc269e7dbfb83cb23a4ab3a1"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/37.json",
+      "size": 2859645,
+      "sha256": "a7226b15238da6425b81b9a03d1a64592a7080a239301dc6e3e13c1ec6a0b4be"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/38.json",
+      "size": 1746529,
+      "sha256": "724a5826c202b2ba99136be925a06319c3b0295114d439286ef87d83254b6166"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/39.json",
+      "size": 684204,
+      "sha256": "47e7969fd557c069b0dbe0210a318e13eca80cb041050699ce77a69416f61637"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/4.json",
+      "size": 3171765,
+      "sha256": "86ba4dec0e26084bf91778256dd56c730d9429b3dd5438b1f3d995b5079d2f65"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/40.json",
+      "size": 899231,
+      "sha256": "d0d6a60ab228875f8b54dc6b6f3698b400b22d484deac5e74751127097647e69"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/41.json",
+      "size": 570444,
+      "sha256": "27ac70ad6dfe0f1a41dfd23695aa4e58553b7280e5b54ae48b6c3f4c8b7b0b5f"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/42.json",
+      "size": 511605,
+      "sha256": "3f3bfd910ed361cf35c117b48febe5138c1cee5b0552f48424581dd90f613057"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/43.json",
+      "size": 535773,
+      "sha256": "3dbf05b6f027d8e05d0a3bf455ac96ffa3e07a68c1f49e4eca1c279ec88f1b2d"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/44.json",
+      "size": 254790,
+      "sha256": "37920247c33e695aac4615cee6654fa9e7a1d5ff4065ba6afc5ac30ba208f58b"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/45.json",
+      "size": 111348,
+      "sha256": "afb58b8f7e44c9906463e5ea96c5ea3a22a6065b8921c1ca89d85a0d457b6fd5"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/46.json",
+      "size": 253894,
+      "sha256": "f8eb7589c7b55497c3336eef6b77942569eb5b0de7e631fe23dc36dee3c94f23"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/47.json",
+      "size": 212197,
+      "sha256": "ad6b45659499fce0794bcb9c983569fa6a1fcbc9afd1e3a3fa916579e13e9196"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/48.json",
+      "size": 216611,
+      "sha256": "9d344bd2758dbe1a138efc6bd302995096cacaf056b22fd398f5f62a9ad0e550"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/49.json",
+      "size": 232990,
+      "sha256": "6c05153e7af746178bb1fb51dd743ec93c7da6e7962cc66255fdf9cf22f6ca1a"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/5.json",
+      "size": 2401829,
+      "sha256": "f32f24a5e00bf24b27f9899af19ca7be2c7d20c08c95bcd66909cc9c6cb04869"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/50.json",
+      "size": 558089,
+      "sha256": "dea06dd4293e33961923cde3f66509ab8c6ce8d89812207f38da7af231f83cc4"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/51.json",
+      "size": 579389,
+      "sha256": "068656302c0c079da2566896cba07fe87829f07a45a99af6d408d4816c604aa3"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/52.json",
+      "size": 574275,
+      "sha256": "fff86730c7b86651bda6058be85af9a06ed2173954d1448fa18b85fa3b577c02"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/53.json",
+      "size": 1250143,
+      "sha256": "12323e71cac8b0b10d8f44a91f04a9238dd90890e54a3d7cfe1cdb6e288cf405"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/54.json",
+      "size": 685459,
+      "sha256": "121ca437c6fbe286ce64650b82ad1c18e30819d797ea162aca89275cbdd15acb"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/55.json",
+      "size": 1081112,
+      "sha256": "904ef43caf886586a0ddb67e34d0acea03f2d8abb56af28e2dda4e30f77cbe0b"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/56.json",
+      "size": 1504452,
+      "sha256": "a79516e5c7b1e26ada63c408d75612c95b9bae017a9b2bfdf63b5590128dff91"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/57.json",
+      "size": 295637,
+      "sha256": "23845830d17e0030a9713fd94e573dd3588c6679f9274c967d92ac5a0eb426ef"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/58.json",
+      "size": 241487,
+      "sha256": "f8835bb97a95e19c7970a7555be2a4bb6c4bb82ac6d12cfdb5c75ceb6c06f5d5"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/59.json",
+      "size": 289871,
+      "sha256": "3bd6bf7338fe144216d1e8bf073809adc86bee45cbffffb0230a3ccb2dbdbb89"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/6.json",
+      "size": 1323707,
+      "sha256": "7be31d0ab6a453deac88f2ae584177a8247f242abfca37ab49f3d561146bae76"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/60.json",
+      "size": 132472,
+      "sha256": "7a9c264cb0e721dca2d79c3e6331dd3252885f6d2f5ac41e6a0922b57ee47741"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/61.json",
+      "size": 105502,
+      "sha256": "6065114b3984951fc44a0fa548544e736a29f0c13f6cb74b50aa4da42c8de4b3"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/62.json",
+      "size": 134013,
+      "sha256": "32144c2f057c9827f6dbfa0aca552ba5bf3f1f571e534fc13f9432014282eaf7"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/63.json",
+      "size": 53122,
+      "sha256": "19f7447a137e3ce3d9841c6d987026b32fbf4e3f787728965ccabc9d2742f7ed"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/64.json",
+      "size": 80982,
+      "sha256": "3586cbaa70140d3e8ce9f5e0201d178fb092070cffc269a1e29c60cc50eabed2"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/65.json",
+      "size": 197644,
+      "sha256": "3356b8cb7c626145854307ad01e5203b56bcb8ee50fa23d8c555966087d6b40d"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/66.json",
+      "size": 120946,
+      "sha256": "ea342664d55b8441a629dc3b4289a3000d1cc7174028b37c27e236da6a8d3da5"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/67.json",
+      "size": 91240,
+      "sha256": "d3da1ef881ef661d4ea9d23489c75621a2f82daf45b25ab8bf0032154918c1ec"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/68.json",
+      "size": 370605,
+      "sha256": "175a24403c863b8fdd262a123b0b63ca3ba65c1c1c17295441f2bb756cbd7c5f"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/69.json",
+      "size": 477410,
+      "sha256": "bc7b3e192ebd9eb4eb86bb0adda6bd2cfa44ed79171627cf2f53d1b27f49e532"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/7.json",
+      "size": 1258166,
+      "sha256": "43c16f41fea8dd1a7fa72269813ac4e6c792bce004c09631b23f062896ee6a3e"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/70.json",
+      "size": 368613,
+      "sha256": "47b53b8e01e3631e55264ed3981cd9e3dc2f62972c2192b3dd44fd902200f8a3"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/71.json",
+      "size": 125762,
+      "sha256": "dec6c171145473050cf5b56717139dd344d1a0a75cabc0032af4368a6902c77c"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/72.json",
+      "size": 347478,
+      "sha256": "eddb37c6d0270a602d6e37dfc2e6e6348f7a70cabfc7a9e7822f548c291c6c91"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/73.json",
+      "size": 329276,
+      "sha256": "e2ef1c20a9ab2e8cbc071bea2be5083392614581d589081f8a46152dac34ff44"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/74.json",
+      "size": 868319,
+      "sha256": "8177accfdda8689b1e59e2063b3001b800ebde398788a458cbac9578fd0d350d"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/75.json",
+      "size": 536605,
+      "sha256": "4740943eb5f37648419397744ec972e60058e0eecc76f750f860071d1e7fed92"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/76.json",
+      "size": 468199,
+      "sha256": "84173a67b68d48005227dfa7c79c90de358cb2e686ec9a2b215125d181fb6300"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/77.json",
+      "size": 588458,
+      "sha256": "18ee5e488cb43053f401b063385c48adb9217385aa702ba3bbcc2922342b01ee"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/78.json",
+      "size": 644822,
+      "sha256": "10a867007169bf70f11ddef4b6f8f9e01b206b647e2307db4dfbafcd065a7de7"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/79.json",
+      "size": 964178,
+      "sha256": "33e724e2aae78abea69b2b3fa8aa0fb11766b9ec71f39e5739735ba15367ef23"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/8.json",
+      "size": 616263,
+      "sha256": "6c1dd65ee23c1e547e950a1208ffb1ac309914ad3f7867d2e3435d75a45945af"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/80.json",
+      "size": 466908,
+      "sha256": "70f13732a91018cae9c6e35f0a75f1aee2c07e9d4d6fee17b6b4cde35150136f"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/81.json",
+      "size": 848256,
+      "sha256": "4f94a8a578c0f2d63f89b5ef93b1a823385dd708d9af2048deb33ee0b5ed59fa"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/82.json",
+      "size": 107681,
+      "sha256": "dbebfdb471de1dbd0df18a6ffad15e7eb2b4f93f09be762ca649dbdf82346388"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/83.json",
+      "size": 412440,
+      "sha256": "6a07f2c3e22a0df5d68ee39e7bd3d7ba8fa8d9a95042d5ea0341c48b6d180bfc"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/84.json",
+      "size": 326814,
+      "sha256": "618d6e297313921fad14b3e69b8259cc9914b06af36b1defebeefb95d4982934"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/85.json",
+      "size": 248221,
+      "sha256": "90a2c633a5ca6596f65bc3bed3f32398221ea0b35727fed0af94d7f13e2d9685"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/86.json",
+      "size": 139663,
+      "sha256": "619696e319548f3aa197f2f1124af7b5831d15ab962fcba56ea485829cf3868a"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/87.json",
+      "size": 132037,
+      "sha256": "3240cce48684b62d18401bf9fee5e5eb0d0523a1fe7be507756e6bd512b36b71"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/88.json",
+      "size": 116406,
+      "sha256": "a6014a11fad01ebc9fb520643030424d3387f7ed8a25f1840eea2046b6416087"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/89.json",
+      "size": 190038,
+      "sha256": "63367016b3f403ad70aa24556302d97adb0b91f3d9d2507407e2248841e08e56"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/9.json",
+      "size": 1276809,
+      "sha256": "8b0a68fa555296755b1cb94c020a9134bf5ef277f0825bef975e67b21b76784f"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/90.json",
+      "size": 117449,
+      "sha256": "7a6b06ad629fedea2803e388b9fb40ae9bf4ac6d0616e7bdd66e3a1ae6819376"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/91.json",
+      "size": 64209,
+      "sha256": "3a4e9f9e31e6bf5b61502953721f6e567555ced37db64726502522948c2b0869"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/92.json",
+      "size": 188221,
+      "sha256": "9d1c609b4e82ac50e0db3514b9607f87f5a052943ba8a4771576bededcd0e303"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/93.json",
+      "size": 131648,
+      "sha256": "6165b10833d620fd3aec04f8fe47034cc5a7a5b3717323bbda19b85c8c1e81d3"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/94.json",
+      "size": 44304,
+      "sha256": "dac3b1376dfb21233ba7caa3bd0648029f97c372f8e1bf14aec77fc2ce00676a"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/95.json",
+      "size": 40231,
+      "sha256": "fa51324903c3fe1fa61e7b16fa0c01ed390a707504331698d250d5c85c17809f"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/96.json",
+      "size": 67347,
+      "sha256": "91c566787fae04155605cb6a1c8ffc37abc0cd41356d81f32cd386325fab9b28"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/97.json",
+      "size": 52858,
+      "sha256": "8834fe882373f73bd3d73c029ea4f47e9080e0a62fe2febb89aa0eaa64e44e7d"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/98.json",
+      "size": 82777,
+      "sha256": "83651ec2392afea0930b992d9b4ec1ea899b666547f4958f3501a6ffadf74f3d"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafseer-al-qurtubi/99.json",
+      "size": 63546,
+      "sha256": "6b24932ca78d93f9ad827e0e3d2cf6313cb71313d0badf96b68ed68bad683a20"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/1.json",
+      "size": 2610,
+      "sha256": "0f480dd2a55645baef7dad2f33802cbe860fcacca69504d19f66e73015fa6d6d"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/10.json",
+      "size": 48745,
+      "sha256": "2721bd5bd4859456a0b4ac92fa05eff455cf2227986d99107bd263bfc7ff9261"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/100.json",
+      "size": 1838,
+      "sha256": "3bd97131aca8e582e6c4de5b4002f5be1e5718c494e63b021d97611a5422f9d8"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/101.json",
+      "size": 1561,
+      "sha256": "abab31eddcc3b9c43fbb11b4ed6ec6741397fe9afc470fc4d85efce3b985b17b"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/102.json",
+      "size": 1259,
+      "sha256": "79065781556c74a9f0c22547f685e3467be4866095223c36820217e5a21a60df"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/103.json",
+      "size": 544,
+      "sha256": "87621d1d972c682a8fcf12deebf5a0b49e377fd48dc6508a364063f6fb7de4a7"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/104.json",
+      "size": 1342,
+      "sha256": "4dd23c288e20c73dd7bb6b62d3115ff3dd5cf2271d56c67aab6942d566364323"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/105.json",
+      "size": 852,
+      "sha256": "80fe9720e0f9be371935660779289b3a9f613a18329928c0ac62251900b270a9"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/106.json",
+      "size": 685,
+      "sha256": "348e4babeea23979aedf3c5baef63be55cb9b0ae6da87ffe9954129b40318ee0"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/107.json",
+      "size": 1094,
+      "sha256": "9f8d5fb5143fb576df1901a0d75b0b431d8485314ced8a27a4e0ef855a391056"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/108.json",
+      "size": 609,
+      "sha256": "bedc064d84fcc83af2f653e8530107c28ffc92c94cf41914de0a52a6526b1c56"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/109.json",
+      "size": 850,
+      "sha256": "c6c7f3507adec2b95f3870e4494c3bf38c98c4310322724bdaffa18c1f55d048"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/11.json",
+      "size": 50961,
+      "sha256": "833127019476413e36fc3bfa20166c01b0ee98dfdb530d4f403d2494aacb5cf3"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/110.json",
+      "size": 675,
+      "sha256": "7f855a60963fd38d075813c2dccfacdbf3dc9d9adb018e16d6719413de6521f5"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/111.json",
+      "size": 946,
+      "sha256": "8464a53f9d806fbc6f3dbfb5347af057a5d7298b7389d8e532b76b82b9df00e7"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/112.json",
+      "size": 643,
+      "sha256": "43381c1a50aab1d8c7c444f5fecb3055d4a59a0889ca3b9e789529171bab8b95"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/113.json",
+      "size": 712,
+      "sha256": "f348a92179d992422243bfbedb7992e82c98422c88de6fece78ce86f69f1e2c8"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/114.json",
+      "size": 847,
+      "sha256": "6724aa025df8eda00a3f08e50530510cfffda294798076e926682bd3874b9bc4"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/12.json",
+      "size": 45417,
+      "sha256": "f3c4c87a9bef0d54c51d6203cc6a83255301b0c57f08a717785d6eb3676d995a"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/13.json",
+      "size": 24877,
+      "sha256": "a4bd16b1cd647d2903b397623412f462542c4ac9a48a6abfd9bfc38f90db2912"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/14.json",
+      "size": 24512,
+      "sha256": "09093544b417abcbd907622d43160c3e3665ab98909167b43dc5cd526b808ea2"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/15.json",
+      "size": 21344,
+      "sha256": "88c0934c6e8899ee443b6c159d257c1030b7266a1fd4a9a091ed8d7546cda58e"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/16.json",
+      "size": 55278,
+      "sha256": "67422e66ce915a1363e12ec7458c2b72e2b0a250a27f29346d6fa3a5031e107e"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/17.json",
+      "size": 44640,
+      "sha256": "7690787c9a4b658b161315858a4883271fe28d86696a47bc421b3c8a0f4c0116"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/18.json",
+      "size": 42860,
+      "sha256": "7b8116c1d6ace84cab90cba23d588a7e7a1becff4d1a3081776699d13bceb8f6"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/19.json",
+      "size": 27488,
+      "sha256": "75391203c86e5f3482284e6185ff234551146a5feda2d7678ca345fd6363a5d5"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/2.json",
+      "size": 171741,
+      "sha256": "a32c9a249f9bf0c17150c41bd9a9f5490c3ab6c661cd93493a4dc7a2f88662af"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/20.json",
+      "size": 36978,
+      "sha256": "04b8a9c95d7fa5fe28ff33d79b4f561c0691c406e33afadf2bfdac472a41d012"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/21.json",
+      "size": 35088,
+      "sha256": "c51dde8747ae09fc4696f3330821ab250e7151a7b0c1d0ab100e97bfb4a465c0"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/22.json",
+      "size": 34649,
+      "sha256": "88e18f103b6d4de6d5fea484e7664014d141d2c4a140306aa68e7b6822ed3b0a"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/23.json",
+      "size": 32096,
+      "sha256": "4abf025dae2534afb76cfefa0a3718747295ef62211fe065cd78e1b6cc861c90"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/24.json",
+      "size": 32188,
+      "sha256": "3c44024c4881cdce53b5195b0623e6bfc09ab6afb3236a8b2ca716571908784f"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/25.json",
+      "size": 25805,
+      "sha256": "dd4b234f5fbdc3a17f03da5c8d2c0fbd47363587936a374f7217be0ab94661f7"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/26.json",
+      "size": 45525,
+      "sha256": "e18c6f6543d29d2bab2d18d3cbaa3db6e7347e04f90377d200f0759918d1beac"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/27.json",
+      "size": 30981,
+      "sha256": "e7058f7c1b51ef2478328a3dc9aa0f3542b01f58b20bf749dcd76382f1d1ab19"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/28.json",
+      "size": 36544,
+      "sha256": "d0363424c797fc87e2462d8c3c0306185481fabeea9e91c7cdc78a72581c7892"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/29.json",
+      "size": 28577,
+      "sha256": "a5f75c0f5336fdde52ee37b79ea6f9b5bc5dfa8ee69c91d88ef1f5dd41eebe0d"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/3.json",
+      "size": 98299,
+      "sha256": "e842117f30aadc1bf6369aa6ad812cb4f518fbcf123e571963370ecf1da7184c"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/30.json",
+      "size": 23317,
+      "sha256": "061c8babd304672ecb69f8c67fe3cc963eb228cb92fa6a7daaf4344b68b0a462"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/31.json",
+      "size": 13693,
+      "sha256": "ea66535c026477eda8dd99adfcd24ed09ae0d590c0b3ba17324bce39e82be76b"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/32.json",
+      "size": 11197,
+      "sha256": "cbdc2362f8b74752cd848869964d80d36ee33e81559e82ea46645324981e1795"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/33.json",
+      "size": 36945,
+      "sha256": "578aa53ac97389255376382c732e3e63ba61b5b9fa670bab7544269c48abfd8e"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/34.json",
+      "size": 24835,
+      "sha256": "c6c6712867129e2c3227bf181894c5ca9538290edf874160d64858a744da0f4c"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/35.json",
+      "size": 20515,
+      "sha256": "f38647e46794a2a125d18dbbc04ff6ade04827c39133a086c1a1565251f6424c"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/36.json",
+      "size": 27121,
+      "sha256": "f26594d55251c0b70f5269f6ba8ebad5418c76b66b76043dfacf0f7d732c5616"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/37.json",
+      "size": 40469,
+      "sha256": "11064b498be26d8c103be6c9cf334caf78bb86f7deef83cd123e50c860f4bca4"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/38.json",
+      "size": 24433,
+      "sha256": "b4b4ca1e4fe3999de94d51f1581cb2482687393d49f74b0e5b8b55350c7964e1"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/39.json",
+      "size": 31446,
+      "sha256": "1de2e154f3af6ae7d6865a0e8a61d33d9c4d8ac0a2435155544f11d00b7ad662"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/4.json",
+      "size": 98269,
+      "sha256": "46141b1be57743d13d2f4f366796eb2cc3f8186d124bb8d88108bddea99c8051"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/40.json",
+      "size": 33181,
+      "sha256": "b8cb07192316e557696156ac2f100469038ce3097b9edf79e5e9c513072e0ac4"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/41.json",
+      "size": 21579,
+      "sha256": "aa9091864de94d40e7850e2a2d0027b5118c6d9a08c8c225b43036b6985b3416"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/42.json",
+      "size": 23276,
+      "sha256": "d21e3712ac25f7638ce97772a8b42805c3242ed011e036d64267d239cf27151a"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/43.json",
+      "size": 24888,
+      "sha256": "dec4097a13d68d2acb954865c1f5f03e2ed1052d30950098fe304ea248e12e87"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/44.json",
+      "size": 11853,
+      "sha256": "9ef96ac1a65d41eaf23b2e456345a1dcd8a9ae3a3c5e83722de253527d4c1c94"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/45.json",
+      "size": 13563,
+      "sha256": "1f16f89ed72c7f0044d3dc7c3dd41c9994a5906b360c70f7038b537461174551"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/46.json",
+      "size": 16320,
+      "sha256": "81f373934fae396c3c2e73cec7f4fa18c4335e42ece4dfdefbda1acde4c85ba0"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/47.json",
+      "size": 16132,
+      "sha256": "4c3be2b783e89b92f338af0558f63a0572661f39fae803d7a7e08f6b212b97be"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/48.json",
+      "size": 15284,
+      "sha256": "e2b570f0e560738f54579a9a3a44d902dd8af90cbfa543c4843c2bf0252e5c8c"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/49.json",
+      "size": 9421,
+      "sha256": "551b7a444d35a35a9a74ba2e19d1ae50fe318df26fa3a112847a7e64af67992b"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/5.json",
+      "size": 72647,
+      "sha256": "290c18525c8ed89cd13d805dae70384322899ce8ed761dcb1a1adf9c0d047f6b"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/50.json",
+      "size": 11128,
+      "sha256": "12fe903d6efb43c555fc393dd599a935386b7458784dd6a03f70716e3de0891e"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/51.json",
+      "size": 12515,
+      "sha256": "087c78421d315b3627868655cfb221b902eb5188aad63255454a57c0b959f9a2"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/52.json",
+      "size": 10750,
+      "sha256": "fcaa78e250e643370a2d4bab7b6a1d3912c45c39cb433217cd0883e946915e30"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/53.json",
+      "size": 12230,
+      "sha256": "ed19df0dace377cc1b3d4f6ef86e622f64c60bfcf325464c4f5cc82b98775175"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/54.json",
+      "size": 12168,
+      "sha256": "a587dc203a0893df5f090eae733f6b423e5a62d3bb8698a77c9856d9e16f91e7"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/55.json",
+      "size": 13261,
+      "sha256": "01a9214e5f1943d9091e73f899ef2473eebd8a7ce69ee3038134b94a44181ce9"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/56.json",
+      "size": 15451,
+      "sha256": "418a574c36a014fcfb02f9b0d56cc0dd731f1aee61a6ba654adc2603de272ba7"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/57.json",
+      "size": 14656,
+      "sha256": "76a65e9d5b3799e23dfaeda941f4cd94c11cbca8c150e0a2c0678ad3f2b331ef"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/58.json",
+      "size": 12754,
+      "sha256": "757fd56cdd90835d6e9bd317728b6efcb34e0f132d4852d5b9a3af1ecf89675e"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/59.json",
+      "size": 13054,
+      "sha256": "896dc031fe92efacec4f08e331f1ee20c26be4d7aa15e4177152d62cd52aeeed"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/6.json",
+      "size": 84827,
+      "sha256": "800794cc6c48f0299b623f27f1328b4395ce7ce20a0153cc9982a9ca60ce9503"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/60.json",
+      "size": 8224,
+      "sha256": "33ea795d0ab125e6f1b1f0e73b831a58ccfe0f7b2d33835692d6eb30d324500b"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/61.json",
+      "size": 5523,
+      "sha256": "40db15f79e370db1773f28b9c59374fea2c4b6750cf29d4050c7b13cdab5a8bf"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/62.json",
+      "size": 5064,
+      "sha256": "849573946e9592c9c5d4748de3aa16470d436c30009e3cb96facb8fd5b55d93b"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/63.json",
+      "size": 4953,
+      "sha256": "12948b3af2e9b7f0b72a8a4d09c85ee135768badde6fbc6009da0a8215557932"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/64.json",
+      "size": 7725,
+      "sha256": "c2d67bceaa7f84d0094a9d41aae8f27c10478af557194fece5d4c97d094f13e0"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/65.json",
+      "size": 6950,
+      "sha256": "08fc04c288def909c41c0983d93a7c848cf29dbaaa39992079a9533012dafd9a"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/66.json",
+      "size": 6156,
+      "sha256": "c5c00bf0208c8c77fc6f90a5eaa6604d5112f32fdb841050679a95509bd60304"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/67.json",
+      "size": 9192,
+      "sha256": "903719d605a2aefa1188fb5e091ab91c1374145b84181be818de911e4d4762a4"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/68.json",
+      "size": 10289,
+      "sha256": "1414f280d0c222d8605d1d243b65cc490d14f2ef5bf080c31b25a990a05badb8"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/69.json",
+      "size": 8721,
+      "sha256": "36f2e9c644964f3290a12adb8ed3d6177f38fdbb90660bac91c93b585fa3db19"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/7.json",
+      "size": 99626,
+      "sha256": "87cf46e1ead020a9ba32b613ca363239e903f098dae84f66f64d42a1ef040116"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/70.json",
+      "size": 8023,
+      "sha256": "afb8b83948ac22808b956a460ff4b440ee4feed9383f2beabb98de5987c74152"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/71.json",
+      "size": 6789,
+      "sha256": "04c3ebc0b665eefb750c14bcd1c8c2949fe46fb8cadaa92baa5ffc1afc91777b"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/72.json",
+      "size": 8024,
+      "sha256": "0770494be6a8092cd29b4d01d12175d9dd4b763112031546b26e2bf0225a9152"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/73.json",
+      "size": 5310,
+      "sha256": "ed662a106524cf3b05b79af8b4002409f87b9c2ed37d864924fd28875edd4514"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/74.json",
+      "size": 9626,
+      "sha256": "80621b7236ec55346b2b3969d521b14a18b3e65bdcb6de1014ec9181affab539"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/75.json",
+      "size": 6541,
+      "sha256": "6c8b2ff987671846713493c66e643c91eb447909e9c6832824ac50fa2174cbb2"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/76.json",
+      "size": 7698,
+      "sha256": "55b3dfe87a5dfc8e9dbcbc401ffdc74c9721a9bea9323ba35a70ed216331c38e"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/77.json",
+      "size": 8108,
+      "sha256": "defb080c0ad78dc177bf25fe0736b3734d386287f0c7a107b6adaae7fddebb50"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/78.json",
+      "size": 6976,
+      "sha256": "be80e68fb81f28e0cd3dc0fc10654e79fdc48e208057607d3e43c3fa9d083514"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/79.json",
+      "size": 7673,
+      "sha256": "52ea21b4d627d3ba781086cdd5e9e93a0b4e0b45c6705b38163e5c6da205c9a3"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/8.json",
+      "size": 39076,
+      "sha256": "15eaaf2d954753b63d6c5d2324eb79684e792d0ce8026aa2245f82ebc8ef1bbe"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/80.json",
+      "size": 5809,
+      "sha256": "cc873dbf184bc42cf8f15aa59f4fb9643e41afb9d32e82e38529c38c9638929c"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/81.json",
+      "size": 4364,
+      "sha256": "b767bfef1454ec19ab06a85d15acf24c7ca8fef12c85ac8deb0713b7fac79b06"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/82.json",
+      "size": 2841,
+      "sha256": "813070104a225ecc00c557250a33c26cb6cce66bf58b4d4eeda96fdae8b0a767"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/83.json",
+      "size": 6322,
+      "sha256": "386893acb6d0adbfd98dd61f9ce42a1c780685e85eab1c2041661e3f6d4271d1"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/84.json",
+      "size": 3659,
+      "sha256": "1e8e9a3fb422aa6ca699a64f189e25a0ba64c4a50d3e9e90a7ff843c58de2060"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/85.json",
+      "size": 4175,
+      "sha256": "5165382df8e49dfd3b43a271bed03b763480428755df7266e2bdc26a95c60191"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/86.json",
+      "size": 2924,
+      "sha256": "cbc35eba7b3c286550e162504d773a7634214058d51ba077425f71d54dd9d6bf"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/87.json",
+      "size": 3452,
+      "sha256": "0acbcdb251d9c13471f64979a85df25cb8b503fbab2258c9d88516859445a57a"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/88.json",
+      "size": 4102,
+      "sha256": "ef910f91bcbe60b04c1b5f73d99317850caf56f1809a2bb0b62cfa4931a22a5c"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/89.json",
+      "size": 5651,
+      "sha256": "2bacf9470a21c8804a9438b0b9586d832392e54a7e2b0634decd8c9e7197ea37"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/9.json",
+      "size": 71856,
+      "sha256": "7b35bd6d0aa5aa2d036476770227aa542996b3bbd241ea3ac40e14fa268c7dc8"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/90.json",
+      "size": 3152,
+      "sha256": "17ba48bc0ec5c3a4953a39df5064be58aabe79ead6ad463cb0b403feeea043f8"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/91.json",
+      "size": 2536,
+      "sha256": "950743a3938571ac6072a272f2a5854bbaf7e9faedc29860de2e8ff93ab55ec7"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/92.json",
+      "size": 3364,
+      "sha256": "a5ee881f33388472c5f5b306683226f6591cfb9b32dbd26dab41865d70931372"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/93.json",
+      "size": 1649,
+      "sha256": "947071721329b12484453fdc4a9ac248b1d7c9903efad4825be4aaed27605df6"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/94.json",
+      "size": 1260,
+      "sha256": "f7278306c7f5c79df51ba8f7996e8cc161e7f83dcad11bee30576ab90c7a34f9"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/95.json",
+      "size": 1791,
+      "sha256": "357e11113d9a7455fab45d31d6564348566904650a7b0e071e6a4b88816ddc0e"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/96.json",
+      "size": 3472,
+      "sha256": "22f1a735bd9f2f39b5cdc96639a149b26ff01a9317fc8b48c8516037b55d5459"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/97.json",
+      "size": 1116,
+      "sha256": "aa4782923b0ec18f18d2fd3ec78c33b336c520d624e07543502421b3ef58f526"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/98.json",
+      "size": 2430,
+      "sha256": "e2fc7ac213cf5e71bd67063761fe3a596791996522dbac76edde5e0ca19a53d2"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-mukhtasar/99.json",
+      "size": 1280,
+      "sha256": "ed0a80e2be0c1f59de0b16b64f2fca705be0f712a60549461ff57e4c72d64c9b"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/1.json",
+      "size": 268722,
+      "sha256": "046cb57eb99188ca26485b5a4a941704dc041ae22ca267d7105ec512721862a8"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/10.json",
+      "size": 611244,
+      "sha256": "bb465aa4ac270f08e1a101fbd44111bb06dfa8ca482e6ce2196e15a1b699dc8e"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/100.json",
+      "size": 78425,
+      "sha256": "3a542a68b5f1bd9f131659a3132f5297a2e20be7e24e577b4c865aaf26f71318"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/101.json",
+      "size": 109015,
+      "sha256": "58c300492bded3425a996bc414aefff03de4d16d212c9a9f7a595a9787dad96c"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/102.json",
+      "size": 190171,
+      "sha256": "480f4c438fd3a92bf09f7181cdb30d50670b7c584db7ff1ce3ff22725827fb16"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/103.json",
+      "size": 17004,
+      "sha256": "4fafd2ba8a6fca20855d369af4214168c126b2bb296c412727fa8a5fa783bf22"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/104.json",
+      "size": 166989,
+      "sha256": "ed012ea875d19e33d7abac2ec8214ed67edb86163f979f751db2d5ec928283f2"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/105.json",
+      "size": 184228,
+      "sha256": "72fbd7a42bba6cbd1a507fac8d7496486456236ca712f4f9cc82b0adaba338f6"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/106.json",
+      "size": 81555,
+      "sha256": "a63a7a6c528e49f87008eb10335eb1af3a279fa5e176c6c9cfbd0039fae9d775"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/107.json",
+      "size": 270413,
+      "sha256": "e234be0e1acafbed6aff14deec404bfcddae1f2a3781c4f5dde64ee5d3ed7ee2"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/108.json",
+      "size": 116292,
+      "sha256": "f6b6d83fe0896989f25c1925463a4feb90ee10ce6c2122bb40707058b7add683"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/109.json",
+      "size": 40989,
+      "sha256": "be2bbd47e2affa2b0dd883c42f6323123bd42c46dc028d09d94434976e26dec0"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/11.json",
+      "size": 969009,
+      "sha256": "11372cc82be5ce95d668b0d23ca1f6394ad5f2a5783a18225b9dcdbbfbb679f8"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/110.json",
+      "size": 45471,
+      "sha256": "dee9377f68af98249e0e714d29a1b062b8898e5cf481a786e05d3f4a1faab5da"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/111.json",
+      "size": 114873,
+      "sha256": "35310be1f3faccbfc680fd6b1a3268ae82f8567f19e06299ef32463a886f4e7a"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/112.json",
+      "size": 88075,
+      "sha256": "c2f2e01980ab8cd454962821585fe68223632a9015d91aa1f091b9b1e6228f72"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/113.json",
+      "size": 95933,
+      "sha256": "09e9cdb534a778f1f72ab1047d37b8a5db0ba4bb00181caa899dfc25b941def0"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/114.json",
+      "size": 39243,
+      "sha256": "c4d5f335297c195b311971226f2012f06d99326295b49d7731a76d1c5abe988e"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/12.json",
+      "size": 927882,
+      "sha256": "01645034edb53282d3847ae1d6a7e1c313304fff4c3c347af79914204489fe6f"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/13.json",
+      "size": 578554,
+      "sha256": "15e15b9c8334c8909a70261ab420716dd91fe28857bbb9b56cf8f760d4bcd2f4"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/14.json",
+      "size": 660156,
+      "sha256": "d212a9ba41c5f3e45c74881572a5182f196310fec0eb1b649a25724e44ba6b13"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/15.json",
+      "size": 652913,
+      "sha256": "e4b2333e5a179221e1859e5aa4185e6f1011f770d2b1118785ad88fb3b4177e5"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/16.json",
+      "size": 704766,
+      "sha256": "b46ce753a2fb1c97e6a58182c5c949a869428214c72a89845d5d081939e26784"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/17.json",
+      "size": 1015308,
+      "sha256": "ab3898319a293ac3c40bf57a579e67912ea6a4855343bf4ff837bb20ac9f88b7"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/18.json",
+      "size": 1000096,
+      "sha256": "9399cdee928636cda71d206acd2a27ad2b68a8c711b593a9a9c39235f541289f"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/19.json",
+      "size": 710671,
+      "sha256": "978cb8b4ade89388add887447417740115c64524c3c347cfed52860af99ed0de"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/2.json",
+      "size": 7397925,
+      "sha256": "de68bc0ebc534ba4149eb1141d2ee4b36f0fba0d3fa0ca73a6da77dfb84d2ce4"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/20.json",
+      "size": 951944,
+      "sha256": "b5d5d25de65362a921910c6b08070dfcf09998f32e4800c00b0815523c0a178d"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/21.json",
+      "size": 739611,
+      "sha256": "351d5d32a0834b439e9444986c4d9bea21a5db49eb9e09e0dacf88d7905170f7"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/22.json",
+      "size": 765372,
+      "sha256": "d92d7e947fee15b047acd8af11d3832a62bb2430fb77255e0d37c2a31404a360"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/23.json",
+      "size": 614577,
+      "sha256": "4fd3eee3142a8c996b52b838679f42839cce36d3caf801ea3fea5d599899e16a"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/24.json",
+      "size": 649667,
+      "sha256": "dff74c63d1d28fc5ccf29b1609ca4b28eefdef85eecff797277d01c867448d81"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/25.json",
+      "size": 618474,
+      "sha256": "e2811a45070b7eee866a94a998d1fcea55e2f766d490b266916df1be19319c10"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/26.json",
+      "size": 1209096,
+      "sha256": "00839c0b37c2512546703f94fd05c3b56f94ae6e1945e4e6ccdd2c34bf5499f9"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/27.json",
+      "size": 693042,
+      "sha256": "cc29ed9e0b63096d9494665e64de905385799cf1c31b89fa431fc5124cda6767"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/28.json",
+      "size": 590857,
+      "sha256": "e652d3e517ac9711986655ce3a2b10a714cca3d38e6d448318550e1a48ea2ef6"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/29.json",
+      "size": 324503,
+      "sha256": "488af982252eb6d3ffa4dc82110f4e02522d9c427594eb78f29ac19eb9b39c52"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/3.json",
+      "size": 2750996,
+      "sha256": "dc434ac1956777e303f8ef1c2ad0d4b9f32522fc8da6c3bf60b3e89e39175652"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/30.json",
+      "size": 539736,
+      "sha256": "b357472591a23bc5303a1588ca4f55cbe81f5b65b1a0bbdce4a42982527f89e4"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/31.json",
+      "size": 162657,
+      "sha256": "d95c9402ab6dd7e9cbb09d30b38049a36b46b78768179c4d5deb26894a83ea80"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/32.json",
+      "size": 177080,
+      "sha256": "46683a71edd17bb776157d0c4c5f5eb585774adfebae0e1fc580ef478cd43f62"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/33.json",
+      "size": 665454,
+      "sha256": "d18952ee77b1be478647415233d41479df509c3a67285f4c64c8a253e31198dd"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/34.json",
+      "size": 308931,
+      "sha256": "11554d829fcebaf480509f60e42ffd0a3d70cac1d982065e5b243eba54707814"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/35.json",
+      "size": 233170,
+      "sha256": "2a439f37befbd6b962046c43ae86ce659c6c5ab5e39ec2175f03e24709694cd0"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/36.json",
+      "size": 426841,
+      "sha256": "f162f4c6e4937f6358fd1b348a37d5c0296694cef3605cc3703f5c7a87e72864"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/37.json",
+      "size": 1487104,
+      "sha256": "8b2fb6f7942e4ee0a1b203cbab0884773778bfa821eb3f0f3228874ee2ad3963"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/38.json",
+      "size": 789492,
+      "sha256": "cfbe192f80583c5dfe70423e7bd134a34bcaf07c987dfb5869babbdc74c73b7a"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/39.json",
+      "size": 397588,
+      "sha256": "b1ef44eb3cc79e1fe8df570e9a5e528fd7cc1dc75884650f10d3b070c56891ba"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/4.json",
+      "size": 3118630,
+      "sha256": "d40bc9e195cd8c7ee714fdb140cc22eb363c5c53d901d6cf30824cf053889539"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/40.json",
+      "size": 448528,
+      "sha256": "a2d5fac96591b939d11eb4bc5a485a2dfe2ed14fb29ceff4f4c86a503c8323a3"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/41.json",
+      "size": 273170,
+      "sha256": "724b2c2e25fd46c354809e6e3ad776afed6537560e737f406874260e54e25d2f"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/42.json",
+      "size": 260332,
+      "sha256": "9d09a99b5f24de0d340da968d34a66e2eba69119f0f3191fde39f1a1bd39d15d"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/43.json",
+      "size": 446025,
+      "sha256": "ae6f772512b2fa34737707e832b5dda200d7be939451fb8ed998b7d45a84a6fe"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/44.json",
+      "size": 440062,
+      "sha256": "eb4738dc3be0cbbb34f680ee5a8a3fac8dc00d785e86f1bcdfd6c49a202173db"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/45.json",
+      "size": 155612,
+      "sha256": "3d177130884df767eeab84335f21449fc09ecd8ad5c3cc2d8687f75726bb5afd"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/46.json",
+      "size": 212080,
+      "sha256": "373b0671ba854e0d67c484c7e92f2507a0a5278306826c3e60c07019ee09c5b8"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/47.json",
+      "size": 192662,
+      "sha256": "a2b9c98278b3009b03d4bb26da5a6b9d13c19eea25957948bf690fee7812f7ba"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/48.json",
+      "size": 305997,
+      "sha256": "1ce03b24beb342f70393af219fdacea15691fdbb0be2699e3013b77ced538824"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/49.json",
+      "size": 164575,
+      "sha256": "243cb87cd7d64cedab16b664fc070f34aa55e1e4ce19614c07cb59725bf6ea46"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/5.json",
+      "size": 2444808,
+      "sha256": "2cd772342579bd2eb028ab9f6addf18c3c8183c886402678e80a202fc8108dd4"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/50.json",
+      "size": 373361,
+      "sha256": "14e30a2a09710cb713acaa74ea9e19512448656144b4ff737eded6a06e45961c"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/51.json",
+      "size": 443401,
+      "sha256": "24eb4b0e13822f1c01ecc14039611e32bbde74f1b464c68d1a26840d6981b802"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/52.json",
+      "size": 340062,
+      "sha256": "c310a6102cb5ebf3a50dc32d0e573332b05f88d70b7b1f65af4619ee7026537c"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/53.json",
+      "size": 703960,
+      "sha256": "0ef0a7aa5e7b2f17d8bbfbc4c109f408ceb0314f41f00490ef998c71405d0130"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/54.json",
+      "size": 335931,
+      "sha256": "be9b651c42c902d93ca94d80db19870f38fd0f79baa4318879d615ccacb9191a"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/55.json",
+      "size": 759331,
+      "sha256": "6e57bb51e46337cb95b20ed541e53e3fb00904c28f38352f26d1bf4b5b30a435"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/56.json",
+      "size": 1124423,
+      "sha256": "53eb870dbd9fdf3e06dfb5d19dbd4f24268df76e590225505f7697a1f6e46c80"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/57.json",
+      "size": 189712,
+      "sha256": "1e5bf20deec9a5d9a608cc7d04afd946a32d28531fff8e79c159a7f23bbf95f6"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/58.json",
+      "size": 121240,
+      "sha256": "618f4c31efda7c4c781c2761cdba8f1cf1ed8be136794a84402e96340ebf75da"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/59.json",
+      "size": 175449,
+      "sha256": "06ee2cccfe19bde6675fd355c96bdc1046589ac9ed54340df5417a4596217e39"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/6.json",
+      "size": 1541381,
+      "sha256": "0c5dbddb10e4cabdd774c3067b51f89da5a7bf0b246937101edbf771db712bbd"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/60.json",
+      "size": 117122,
+      "sha256": "e72d3a5c96bf8d6a21b293ec66c6b67bc7489bc3e7c41e79854604543eca7e7b"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/61.json",
+      "size": 73064,
+      "sha256": "e4817f71b4052dda2bf41617ead9c63426043c1942fa91295e99e2b3da678e8e"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/62.json",
+      "size": 65944,
+      "sha256": "5bcd7882aadb596fb99bbf2c1c280aa1dcdc2717ce9ff1e1b39fbf614981b3eb"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/63.json",
+      "size": 72323,
+      "sha256": "c6b15961af2f655bd715e41afc61d9585452a455d99ea637e7f54d8729cbe2b0"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/64.json",
+      "size": 81591,
+      "sha256": "347cef9bc58eb83a3c18518c08716e79145f65651250c7d90dcb8e99b3da4f12"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/65.json",
+      "size": 231756,
+      "sha256": "3b7fdd00354cd0108748e65a1391b323ea87cbb394ed2125556bfe9bf10e0b89"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/66.json",
+      "size": 73189,
+      "sha256": "e8e1facfe90be9d1ef364f5e0cb8852c63eca48495ec358897148ba0e6548966"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/67.json",
+      "size": 105892,
+      "sha256": "cd87e8c0c9ab48a06eb8a330d19ff8a12f70fda99068b38fa5eafb926b64866e"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/68.json",
+      "size": 393953,
+      "sha256": "23c29bf1202e72e69330ef6d0f18e5191eac0ee6d0d10ca53f12df487725adf7"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/69.json",
+      "size": 322420,
+      "sha256": "4ccbf38db396a2d589ec72d3f5da173505da1a733f8847cc32e69a212080b0c9"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/7.json",
+      "size": 1758061,
+      "sha256": "798f1a2ff9e50df928b932fc94177f9509df584955d48ae45855a67a8462aedc"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/70.json",
+      "size": 458732,
+      "sha256": "ed0223f0b7932718d0c9d10af447486f0778c7139b52697c543c602e708b0a92"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/71.json",
+      "size": 134171,
+      "sha256": "98b45466e18b52d018add3e89bdbee1e64a08e1f3f257acb34969166d0587e4a"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/72.json",
+      "size": 233965,
+      "sha256": "6e47ceefb87bbce36ddff9062ff8326f3a1e46c121fc8ead6b514af8d9efac6a"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/73.json",
+      "size": 190248,
+      "sha256": "dcfcfb3cfd2f20442ff0a334f789030136e9a739fddcf15a1328840f6b5a90de"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/74.json",
+      "size": 665281,
+      "sha256": "04b0580e972aef4f421f6c4356ff8a2dd7cd8d67e683090b8b6788140a5d4451"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/75.json",
+      "size": 578434,
+      "sha256": "fb860daf9d8b38e23cac5db9f9d511793ff2395243cdd429f903e585d5f11619"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/76.json",
+      "size": 218907,
+      "sha256": "6a4df394d2c70eb290f4e89c3d7f72352f2abd175325b56ea0aeb7817530001a"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/77.json",
+      "size": 390327,
+      "sha256": "63550d49867e112cc30d702a79fa91dbfbc5ca42110ac66ec35ddf1672f19cdb"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/78.json",
+      "size": 428465,
+      "sha256": "42b9a9e663592702a74aa99e0012571853d56887ee0d46729bd11fa095240e48"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/79.json",
+      "size": 526986,
+      "sha256": "4d1ce2d310b6f386bf2118e34f932e27a084fbc08df5fd861b92d40c374dd79a"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/8.json",
+      "size": 858862,
+      "sha256": "53ec723c77883607218508023f32176a1a3986f63b33975811c933897540a4a4"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/80.json",
+      "size": 440651,
+      "sha256": "d8c3665b38baecfeef888e2d321f612589f0f27b565d239f3d5fb4412847a0cd"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/81.json",
+      "size": 409587,
+      "sha256": "70efbb0ca13c5c4e5b1f841e5d3225d8852a0b42ba9820493abf71599b023ee5"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/82.json",
+      "size": 94370,
+      "sha256": "f2ec7acecd6ff94c0a4f74a553c63ddad10fa9c76fa3d4aedabfab1a37ed0ff7"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/83.json",
+      "size": 359215,
+      "sha256": "cc70882d1c6a42bf6f20fff41f404107a5d8c714eb767bd9d083d44e686d1aad"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/84.json",
+      "size": 351526,
+      "sha256": "3a3a9ceea768cb1aaa3e5723ae5abde0bddfa2938e960002c2bf8e39b753caaf"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/85.json",
+      "size": 256411,
+      "sha256": "a65ec782db8b0673352cf44748c568b854ad9a88389d61c07ae8ff0d6a2924eb"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/86.json",
+      "size": 304017,
+      "sha256": "96af51a10bae6d9ed54d9e2a5e088c70b86d3cb73ba9d42b7440d03e34645159"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/87.json",
+      "size": 161277,
+      "sha256": "d31294210a3fdd4c9ff71884c2e9bd29f104def1e1eb9f4578cf3f72352e310b"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/88.json",
+      "size": 211565,
+      "sha256": "1b4a30962f83d5d956c5069fca083f50c74df78e726b5a2e8ccbe53463abc8f3"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/89.json",
+      "size": 504930,
+      "sha256": "122b962cba9f8e6c3e8a3a0ed6d142d93564cd906d4925a43e1fd9272973eaee"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/9.json",
+      "size": 1459824,
+      "sha256": "02afb004bf97e769aecaba79a03e1078c866612ce385a0e5cd093d736134c994"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/90.json",
+      "size": 418916,
+      "sha256": "4ab681d01b3c3856c965fe6a0589a449e5cc818274e221e4ad84fc0bd2155406"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/91.json",
+      "size": 248188,
+      "sha256": "2887dc5d55f6275c4806ab779ad681e9f555e9ca52f596cffb51170096dc9876"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/92.json",
+      "size": 383903,
+      "sha256": "414ec1bc4efdeb37efb3c170e739e50d6cc0403a40f27024af505e7a681089f5"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/93.json",
+      "size": 135665,
+      "sha256": "f5ce28fa970e922e33921646f74d0318f5ef2f2b3ebbb307620b43d67f17732f"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/94.json",
+      "size": 118123,
+      "sha256": "b3d527bcf986b85654096c992fd2a02dfccfccc2246d2239431a416345034587"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/95.json",
+      "size": 246733,
+      "sha256": "29f23f004778ac63224156de4e2c01856b6375816082617c6544fda8bc73e8f4"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/96.json",
+      "size": 221103,
+      "sha256": "da3e3833d6aedcbf733c217c94756c87747c677ae6c7463e82115440e665c434"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/97.json",
+      "size": 70173,
+      "sha256": "bb243ec42e3767694d1dec9e8ceed933e2a171c99fd0bac277026c2ab0e4fb36"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/98.json",
+      "size": 31848,
+      "sha256": "6f2b30df9ab5a2f7c5b8e945913058a9c62c5e691717ee4da2c010f9575e54a3"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-al-tabari/99.json",
+      "size": 181547,
+      "sha256": "869330d6acfe5701c49e49d546602f7e359ca53f5ae2c0a1a9ab7ebd860e4e35"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/1.json",
+      "size": 182061,
+      "sha256": "fd19ee9a637ced5ea2fec1ace934ded0129f0a2f8d24629932781fc492b519a2"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/10.json",
+      "size": 689790,
+      "sha256": "bcb8815b33b09baf78f4f3d4d31b05c484862f656d762a810be980e7d4455be0"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/100.json",
+      "size": 164378,
+      "sha256": "f9c82f920e04cbd3fc6020a73b3778a9aa9572dae07e2171968bf6694dbeabc7"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/101.json",
+      "size": 184068,
+      "sha256": "ffa48c0976d8dacf12b66e91e4a8f0e2a4a8eec1bece6a1d5f7b3896c332b23b"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/102.json",
+      "size": 295435,
+      "sha256": "4c8751c5cb619e6329b6a2370e52244e713b2c064402caa3fd1f31fdd36ead71"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/103.json",
+      "size": 20325,
+      "sha256": "61cb31b3c39a9a9c6a905ba55f0cd89470a0faf571cbefa35a9fb48fd72819c0"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/104.json",
+      "size": 60222,
+      "sha256": "7e1cc01ae3348f5e9f821a97354fc3a74da47bde0d272461975e831aa828d3e1"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/105.json",
+      "size": 228608,
+      "sha256": "499a7a637ea85dc66e82ca9c93c81ed696497f08c70023741b6d15ff0b33bfd2"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/106.json",
+      "size": 42967,
+      "sha256": "6210f213ee6fb5b3cde7b9d7506e7f636d927b3344e898ba30e11aab0e7eedb2"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/107.json",
+      "size": 184453,
+      "sha256": "d4f6ec63fb28a41cd3374071e87f1d8559e8ec4f2333a914a250e3bcd4c8aece"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/108.json",
+      "size": 116832,
+      "sha256": "bb378f851598afdf4bebe8b88777d74a9d046758c321e229854ed68d6f7b06fd"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/109.json",
+      "size": 102243,
+      "sha256": "0c42b87324629b355b54bf9b3f69d07af73264e43eabe80cf1ec68739d83d7f1"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/11.json",
+      "size": 792805,
+      "sha256": "2c98c10205aa61210df79e5d53102da533d3105a9bf261c59272fb4c7afea2da"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/110.json",
+      "size": 81162,
+      "sha256": "3a95b4263f7e375e9118b753447da54952160a71a46f345be1df09c99cb1b178"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/111.json",
+      "size": 97628,
+      "sha256": "447a468b098b686e6092c09fdc95921437aa70e3da4d8ee57d5c1d9adbb6ea84"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/112.json",
+      "size": 269343,
+      "sha256": "0350535c8bf66e84202258872eb47446b6644d6274153c69caf12b31907f081e"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/113.json",
+      "size": 241468,
+      "sha256": "ac484b9ce99757d1f8b474252f5da1063ab77f923ae77d96166a7ecf031689d6"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/114.json",
+      "size": 130353,
+      "sha256": "f28e871f2adf657b4b360591c86405c71eca5c9db3ff14cf4caa10b378eb5169"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/12.json",
+      "size": 828199,
+      "sha256": "0c3b9d013d146875775c9dac0813cf28b2a0628c36e4d143bf9d4c31a2b009f4"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/13.json",
+      "size": 494979,
+      "sha256": "e67177d307deb6a533ec27e96a17b13bb2a0d60d249f6ae9e1e0860be5e3e6ff"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/14.json",
+      "size": 542895,
+      "sha256": "d6a6c722a6eb598c033793337e7418d7ef5f9644db1fb3ad6dac86b47c5881fe"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/15.json",
+      "size": 752027,
+      "sha256": "1a0f30a778b159a6f8fce7d43a59c56eb568780494b02f5e519105dfa0fe0251"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/16.json",
+      "size": 831634,
+      "sha256": "d20d622e885950d710eea07537d795a0776724d4d99f308da778697e12f1dd7a"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/17.json",
+      "size": 966794,
+      "sha256": "3baa58337c6985d14a6dcb5d66d8ad5f035dc09e961a264795df0e32d22a07ca"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/18.json",
+      "size": 1308672,
+      "sha256": "54340d7e75b19d119ac68104e6c6b5388fa358730758fd59b7f9f0304aa55382"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/19.json",
+      "size": 1178428,
+      "sha256": "d2d348f3c5e16951ff31cb9abc32377512bbb2d2ddd3783304076c4ec31c0c87"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/2.json",
+      "size": 6304993,
+      "sha256": "80e3f95e33620cdda7fab759200dba5c3f137330f69b84d368bbfc5a1931c7c1"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/20.json",
+      "size": 1661988,
+      "sha256": "f5f6c0ee4dd31b3873803191fabdb3a8d994d95bc1d04591a3beb0d4f59d65d6"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/21.json",
+      "size": 1180869,
+      "sha256": "81f7f64c5ead8ac70c46ea8c60e700e9726a9078e13cf4c83bb61d3b820d7cea"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/22.json",
+      "size": 815460,
+      "sha256": "ce48a1b9ffd28f72b049dec27c3255e5e845ead1f6ecb5bc95434320e5e0f41a"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/23.json",
+      "size": 1426282,
+      "sha256": "116de8b10bd40e52b4daedfb95ae0db67e622f913f127bfff42cbf0ba5f62a66"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/24.json",
+      "size": 1115829,
+      "sha256": "c0b955a49b0a6620ec4f04fb024dd7d1247f5d1e433a3f0e95f6498f0c80005e"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/25.json",
+      "size": 1017101,
+      "sha256": "4265f007d9e56673a188c09e43e83db68d4bc6109105b9328946f4d123ea53a8"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/26.json",
+      "size": 1924369,
+      "sha256": "942d78115bc58d7da5ca40befbe3fb1e6a76cfe6f2bc81da1f09ef2bfb41321e"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/27.json",
+      "size": 829439,
+      "sha256": "3bade923b739dcf9094293c8d88ebab232911ac051b006e497111d06c7719a8b"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/28.json",
+      "size": 819362,
+      "sha256": "986398a4d6ad8284e1db52da6d19838756276dc7977eef434eff8a3102b2d9bd"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/29.json",
+      "size": 564937,
+      "sha256": "5dd2b3839e58535ea7504e4931c8623a60da268923874b72496776e7970a7848"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/3.json",
+      "size": 4400592,
+      "sha256": "b5eb91315c51e67c9eb59d38aca2c09ca567feeb0016589c28168fcea4950b4c"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/30.json",
+      "size": 762919,
+      "sha256": "7b380ec49d8a2b14a8d5aa82dab493d640e3a4a87ca4c6ec16e8ce6043934b6b"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/31.json",
+      "size": 396961,
+      "sha256": "51a81dc059fda8052ec87c2a1d4a640d03dd05e90a7d3161bc3454960e192c82"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/32.json",
+      "size": 285871,
+      "sha256": "d236c9de409e05ee7e77035c1d546479a89c2f8f32dc58aea98e47109ede04f8"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/33.json",
+      "size": 1322428,
+      "sha256": "d3c965780c336c62d0f8c3b87fc4551aa719f881590a32a359425c95c6670be5"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/34.json",
+      "size": 629939,
+      "sha256": "e5d358fe87255f9eb4bed06687ea41a4a25d5d3215eae589731dbd88845558c5"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/35.json",
+      "size": 399832,
+      "sha256": "4f121feac77933c9b2ecf957f2d5901b78c4d46316d6ef309071874e5fb5fd7d"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/36.json",
+      "size": 809977,
+      "sha256": "4ddca14937b818c260055be7218e03e87104a1fc78918de618c1f79867f1d27d"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/37.json",
+      "size": 2645206,
+      "sha256": "880da651b5fc9e9b3e4ba620ff5f1071a7b95e6cc646cfe6dfa607f93f8369d4"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/38.json",
+      "size": 1107101,
+      "sha256": "b0b45709a2c388d34ea47fd19f951403b9340c87ee3d142c9d54e89a7f0fc041"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/39.json",
+      "size": 784544,
+      "sha256": "ea78c2bc8659ff4a2e7e899e34871cb3129e3e6a33c0a9b575fac8403d89352b"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/4.json",
+      "size": 4506077,
+      "sha256": "8da78466525f9e27d4c74ae84cae6f1a75c576fff49718fb95e2f5afce7ce2d1"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/40.json",
+      "size": 781309,
+      "sha256": "c8863711b93447d365d40bf212b2ef567ac6afcf6753c79b297fb2c817847304"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/41.json",
+      "size": 652708,
+      "sha256": "a0e3d575974be7ab654d4f747c130fe3b351ba82695a4b47938b83880ae17b2b"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/42.json",
+      "size": 517805,
+      "sha256": "e40d236a61f2f4af361c6d8ac223c64eb55661de540571c49475b525f31c5ce4"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/43.json",
+      "size": 1144546,
+      "sha256": "1553966113af6da3c2c2231478bf9b13ee11c7d0ca9f2a5f44c10f9935ffd1a4"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/44.json",
+      "size": 1069501,
+      "sha256": "f278a34895d320e1bd3acf4c19da7095308724e27a1334e4593fa8e978018fc6"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/45.json",
+      "size": 222139,
+      "sha256": "94ef6b87bb81d4134952e7959caed6323d28ef0fc0b8ea140bd6ed3890dcf305"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/46.json",
+      "size": 746663,
+      "sha256": "1c6f14ee4b104c5012752fb4f49bebf535b2a6058cfd2674eee25516f7a403fe"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/47.json",
+      "size": 407317,
+      "sha256": "b21dc682d8b8a67ab146c2a650771f265668f4405593791cb7374355687dddd9"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/48.json",
+      "size": 583093,
+      "sha256": "f2197ebb88f88fe0b1c8f2bb9e302a32f8c628b3733589058b64219c270d1546"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/49.json",
+      "size": 338545,
+      "sha256": "8099881f5a3b45dc38f7394dbc1ff782fe18abbbededfc6c040c2079c54162d8"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/5.json",
+      "size": 3862732,
+      "sha256": "56fdef87e741bf892d79baa111d5ec7b300e3d3a5172ad3234adb96e024fbeaf"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/50.json",
+      "size": 665937,
+      "sha256": "65cc9acc862d88c5b3070cd05809f511fa16d82fbce7ef75ec60d64a0e179baf"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/51.json",
+      "size": 674978,
+      "sha256": "4b9fa75faa2f0256280274b74caa53f9e4a2e0134bc58630d835b8b506978ab4"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/52.json",
+      "size": 766334,
+      "sha256": "45a3a95844e4d8602328ea4665ea483f288ba67054db0a842eed6c14041985b0"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/53.json",
+      "size": 1504662,
+      "sha256": "ddfefe411892ff564b72520deecbcfb05cdd70df5788752ba1794b63e5f7ef82"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/54.json",
+      "size": 648094,
+      "sha256": "71cf7b07fca64d761730ec2661b11d5bf0f90f1a3b83fac473a5be76ed978a7e"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/55.json",
+      "size": 1356609,
+      "sha256": "9ab3e70044e77453e229483e31f3f9ce21d304b46677041288ecf276ea7b4f80"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/56.json",
+      "size": 2803666,
+      "sha256": "1ad26319f84788877dc45250b5a3ef20b77e48fd96b12cdb0865e1f040601b60"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/57.json",
+      "size": 505241,
+      "sha256": "9c64044c6bf4f2ccc3567a825773491aa9f20a0192ec754125021ddb8721252b"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/58.json",
+      "size": 332035,
+      "sha256": "86e748a0e5aa94d1ac9be8d8eb2217d431b13b8110b0a1c317823b5e10b00a80"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/59.json",
+      "size": 589628,
+      "sha256": "af1dcc5514ef2c6d787fcd64c30dec34a45d36c27bb1cd7e3c72a70d262e8089"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/6.json",
+      "size": 2249190,
+      "sha256": "c93f54b558ba79bf8629744be0856500911f3b76898c1ff837b5a8c90e16c958"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/60.json",
+      "size": 265656,
+      "sha256": "393c4c9723da147a44bba0d7516df89ddc8ea386fb42c26544984d9cda5ee4ba"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/61.json",
+      "size": 186670,
+      "sha256": "09acac32ea6cbf66fd00b89fb31e52215a1d836cc4865bbf1dae0940715cd2eb"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/62.json",
+      "size": 149880,
+      "sha256": "9f72c3c3c6dec83e28f9213c9b6c0a468008cba99df367d018f0f7af987f31c7"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/63.json",
+      "size": 217571,
+      "sha256": "a2f31112caabf74a12ef34b61bd30e3b1d900ddf4ff30e17264c77ce1b6a6aa4"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/64.json",
+      "size": 140677,
+      "sha256": "192690007a5e3ad35b1e348be9d9f5c611ae75874711c3bf083792a33455742c"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/65.json",
+      "size": 161210,
+      "sha256": "b4a32339fac6e624113ec0ec1b3cdd30f83e3589ff512e2b7fc7b59f3b119b1e"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/66.json",
+      "size": 385496,
+      "sha256": "9b138ddfac8be0de4d2719c18cc7183d021b8a8a9010c951e17f371a1dade71e"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/67.json",
+      "size": 234737,
+      "sha256": "13a95e26ce177530d3826237843cd66cf986eb1cf8746fd5369089299a0aa922"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/68.json",
+      "size": 1026865,
+      "sha256": "c46c9b739c947cde8c25fcb621bd0226a54a5b8aa1d31fcbd5640b7930a8dd07"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/69.json",
+      "size": 537011,
+      "sha256": "033bf69c75de8f3df91fb7fd029e7056e0b9221c4ec34580bdcae360306f2f78"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/7.json",
+      "size": 2019805,
+      "sha256": "67b29ecf8d80302fd7a9373c4d45f9ec06cb3a620fdf1dca7321c6e452a92c22"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/70.json",
+      "size": 567162,
+      "sha256": "fec43cba5683e53af42f3b0a27cbce4fc48d36a278861cc92b6c644ca0ecb29b"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/71.json",
+      "size": 324150,
+      "sha256": "7e9912fe0c63601c8d91268cfb7c7747927d203ddf8acab28da918ec9b4ed62e"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/72.json",
+      "size": 325235,
+      "sha256": "59dafeab1e39c01ba75dfcdcfa1a49ac837df78437d022fa009ea3f3c31d9b8c"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/73.json",
+      "size": 464353,
+      "sha256": "0ff99c16e86832fc85edf8d05c0f11d262fee0ff8ef1fb3453d46f2a49301986"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/74.json",
+      "size": 1001079,
+      "sha256": "32eb231395701ad6dd1551dfb878fc2b02a61f6382a5fee263beb590601bd006"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/75.json",
+      "size": 779404,
+      "sha256": "7a1bb1e17a83fa5607a4dc622dd8bb0e2b44f18e44f214f0b46368012df2df5d"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/76.json",
+      "size": 441829,
+      "sha256": "e9abb6d18af54e99c6ca86884dc7d79f5e1c00cf85809aeae9262ba2f66b9722"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/77.json",
+      "size": 382120,
+      "sha256": "cd0fab0faa6abdd74beeb474db3a242cfb08718f1ed53b2d5dc02e7e157b88a1"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/78.json",
+      "size": 542868,
+      "sha256": "70c74d1f8975abbb6ee846aa324c6f84fadb35ad7492bff7c66be1db3267b00f"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/79.json",
+      "size": 403070,
+      "sha256": "7e561db1e3db3ceec7e4ad08a8dea5723d4ac0b095a6844abe240e034bae1ef7"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/8.json",
+      "size": 1148517,
+      "sha256": "0768e672bdf304c77406d605ea56025223a543d10a7982a96d165b6d73d176b7"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/80.json",
+      "size": 697422,
+      "sha256": "f9e4b59be7c694cd898d1f93bc7d276de91906b9b84271c0ac758da9bc9ddd97"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/81.json",
+      "size": 964565,
+      "sha256": "56f55c89933e39d6629b32cf98d8497d13552d412a6111e5000f52727ce40b6d"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/82.json",
+      "size": 276772,
+      "sha256": "b50403f8f311dc07d70638723c20931b73fb0752944714a3d6ab498422988983"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/83.json",
+      "size": 403837,
+      "sha256": "4f98228625148ce95c24bbee990d31260bd22e0b3c7039e6d75c9947f1c08cfa"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/84.json",
+      "size": 473159,
+      "sha256": "9f70d12c505abe430d0e4dcabc68f12b1257060e7470011463a514cebed60bd6"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/85.json",
+      "size": 690946,
+      "sha256": "90dcaade3114f8f6da2e0e8762d8e29105c11dd1967b8a1eeedfee06a1430d36"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/86.json",
+      "size": 136200,
+      "sha256": "7095c6086477089b4428be9a314923cacbcd33054b56f2cfac9debb7f0b3e395"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/87.json",
+      "size": 372071,
+      "sha256": "31736c149e9451ef65b358c397f4b1d274e9aec3a5617b8faba51dd41c40a997"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/88.json",
+      "size": 254388,
+      "sha256": "6cc0a5db2b94e431f3df7efde003518e67e22268d35aa5f76d31f985a9946430"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/89.json",
+      "size": 868328,
+      "sha256": "5caef4c8e176266b5d0dbb0904864ec6d46b93bb843a2f8d64768c7d048b7fcc"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/9.json",
+      "size": 1340859,
+      "sha256": "b2051a79003a4de6969f5064d2d91ac9ab90582786af1964125d9286abe4cccd"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/90.json",
+      "size": 411394,
+      "sha256": "d523390e92407e44833a4b7987930f6d267304589f2aa4ec7c557b2818675f31"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/91.json",
+      "size": 225924,
+      "sha256": "03b7ee0233149bb186909ef9dfc5962b901ada69aefcbca6de333b45118fa374"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/92.json",
+      "size": 434476,
+      "sha256": "0e2f9e99fc54ac71ffcbcf65f8b0cce58b05c4090a953483840d94df519cfab2"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/93.json",
+      "size": 355646,
+      "sha256": "e7bc3e659eddcaec4b7d77d2930e73921d5de9659b31a4b0c288ac3b58d4fc4d"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/94.json",
+      "size": 197395,
+      "sha256": "1dff41b5f54c3d2610915d64be9c394ed2a8bb4a4939289e08c4e9f707e05193"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/95.json",
+      "size": 76499,
+      "sha256": "7e415ebd0f42a7db211de1cd1fb9f47bef5304563852070829fdbbe8fd5c2563"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/96.json",
+      "size": 238982,
+      "sha256": "035340be68e2dd67da214f2872ea101591940fa7827a4bc2c23491d78924fbac"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/97.json",
+      "size": 375803,
+      "sha256": "687846307ff49655be6dc7efae7f0c65e3edccd8d25b25d4a96e4f3bdca003de"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/98.json",
+      "size": 117247,
+      "sha256": "47761d73b4a7f67df86a118d0519927e0614085223c704b96043b6f93feea0fb"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-ibn-kathir/99.json",
+      "size": 262803,
+      "sha256": "28d434d41a2d20bf5d71b59ddefe05d7d1aae08192edb87f1cefcd5cdfe74007"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/1.json",
+      "size": 5249,
+      "sha256": "d36fdf06d7469e05a523a3730f15ba83605568442b0c53e353b5a12a0b67e18b"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/10.json",
+      "size": 52735,
+      "sha256": "46ca083249d8fd51b3a76f847e72f2ed2ae49d5e66874d3832fbdbe78cff1ad8"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/100.json",
+      "size": 2473,
+      "sha256": "c44988caa4d3da767bfab1da3a65c4bf86546d37a74034ff340022ac71258511"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/101.json",
+      "size": 2136,
+      "sha256": "5bd0899302043b696a86961bf0574b1714b94796e8e2331c6bc3e82c3b501799"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/102.json",
+      "size": 2952,
+      "sha256": "09c8e0b68008c07c3ef3b282837f908362789be0b6d6d2f08875f258523f1026"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/103.json",
+      "size": 2198,
+      "sha256": "9d846e909b086b68b842d22a597beedf836a7470909c6712b5a942e5b54d8620"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/104.json",
+      "size": 2106,
+      "sha256": "283f9d9602859a5e953ae791ef8c07b7b44f8acdec95649bf6d965c3aad2f050"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/105.json",
+      "size": 1564,
+      "sha256": "51753e0224aecb4d22152829f5e59be07ad0ac76e98a7ffcc65f8709db02c625"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/106.json",
+      "size": 2047,
+      "sha256": "debea5ff3c032fba9bb748d53932ebe9ba1c505b779ed23caaf23754b2d37a0b"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/107.json",
+      "size": 1967,
+      "sha256": "8c5e8423a86d20166b007079420b11450899dd30cf355ad938f611dfdbaeb7aa"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/108.json",
+      "size": 1209,
+      "sha256": "b023e7a510e926804198f2db91233f943b5cf75b64ae07c14cbfbfdf6587474b"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/109.json",
+      "size": 1616,
+      "sha256": "3d63ddbe0ef3b136a13537f4f3add7901a7faf4a9fc9ffaa888e0c53684d1202"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/11.json",
+      "size": 55749,
+      "sha256": "86bb86363d6baeda54c5470651760f39006b97175dfcbb1c6c167b834913901c"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/110.json",
+      "size": 1295,
+      "sha256": "de3925c447a7cf9cebbc5cbe7ecea64adf1dc5d42923ac3c61d4753000943ef3"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/111.json",
+      "size": 1699,
+      "sha256": "967f13e447c71f7815def4bca433d689cdd51a5050f527f04c3a7a4fe1b957a1"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/112.json",
+      "size": 1426,
+      "sha256": "5706f09cf7551d0138dd4638d93c22f1841fbf60aad28bbfcdfff589bb49b0d7"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/113.json",
+      "size": 1349,
+      "sha256": "46e2ac7b4fb621256f7f714bb96fe01620f64fd850c323124e695fa56b854307"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/114.json",
+      "size": 1348,
+      "sha256": "f0e7297f8200b02bb2dcb93227437749e92a661eefcd1ad9b3e4dde1cecfb672"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/12.json",
+      "size": 47431,
+      "sha256": "664a07cd82001d716ed8d35c5bcd2f7977dc3c26815b1be4e65b828e3836f40f"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/13.json",
+      "size": 24242,
+      "sha256": "7b45ba52b4995c2a0fa8af2742af5392ceac209b973412f8727d0cfde6eb2387"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/14.json",
+      "size": 27835,
+      "sha256": "486811c4ca3c144c40d2579d097a81371510963a80e5371d5110117d1f782a17"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/15.json",
+      "size": 36557,
+      "sha256": "6499e28ccad515e9dd21aefbca41901bf0518e606f403796fec1882ad90c1b86"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/16.json",
+      "size": 60867,
+      "sha256": "a167636cd1ec26d906c2b9b76c7b0e0c2dd8157b76049eeec66718ba1ec5c3b9"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/17.json",
+      "size": 50442,
+      "sha256": "78f8015695747835e432fc231bf7b6a91d2f43c0c638a66e0b8c360d01c8093b"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/18.json",
+      "size": 46807,
+      "sha256": "281c762c7dd55ca9e1591cd976644ad9d9a80e75d091532d8b0e27e790773477"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/19.json",
+      "size": 30271,
+      "sha256": "96307b8fa82d90c0f76eacb6b4054515b26f3b761b01e1c8d6530e98ad8c587d"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/2.json",
+      "size": 172461,
+      "sha256": "ec0540f4953489399c1f94fc547bc2d1f53390865eea773eeceeb70347940b24"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/20.json",
+      "size": 48993,
+      "sha256": "4ca695ab0f0a6520ee1a354a39c063b701d8806439c6541d02ba44c19016e529"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/21.json",
+      "size": 42134,
+      "sha256": "a3c1415e4b0c7c842d9e988a581ba024d14f179fbe5ae00704072a82daaa74d8"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/22.json",
+      "size": 49908,
+      "sha256": "7b5a04319627962e5d501b477d368d8a86f2cffc9f955cabbe5955bb2f076025"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/23.json",
+      "size": 34947,
+      "sha256": "9a3f61c33cde74870a874b44dab3145b24c9535ec5108869d9e48170467a396d"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/24.json",
+      "size": 36880,
+      "sha256": "f20d013bb6a167062f24dbb4f01377511daa130e21812c1a40fb4a66b7a2e8b6"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/25.json",
+      "size": 37596,
+      "sha256": "755a6589c2f9dfa7550dcbb20006d99cada1c44af96c2446de085b72c59c1462"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/26.json",
+      "size": 94512,
+      "sha256": "41114736b2712380557e871fde722cea0e81fded01016cceb0284de44404b3c2"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/27.json",
+      "size": 48200,
+      "sha256": "6cf5084eab999b637201a212de0a6502f407c66eb876ad51b382e2f3133a3261"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/28.json",
+      "size": 38806,
+      "sha256": "dab28c35870a041f9e33dd55b7f77514d709c3fde7c68f5a38feb99e89190e65"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/29.json",
+      "size": 32519,
+      "sha256": "29c2413385a17d6a210c8261f2461ccb36cda9aa2e83779680f021d0fb74dd1d"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/3.json",
+      "size": 99489,
+      "sha256": "d5e5c5d6af40a5443b4e94b99ee88ebc8de8fd3880eb2b4681a097a46c33868d"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/30.json",
+      "size": 29092,
+      "sha256": "3752e7ca5ed721d3924c18be697b0350aac9f4f6f40ffe0ccdc0d6da5ab7b0f9"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/31.json",
+      "size": 15938,
+      "sha256": "fd212903f82064801964022de1990a55dc3f757eb14503574557bc4fb06e25a6"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/32.json",
+      "size": 13755,
+      "sha256": "471181a7031e19cc4dd9d129a6698e3f208b21288078ceb8bda9fef3eb8194c9"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/33.json",
+      "size": 42289,
+      "sha256": "eef870c07403c15929e5c295abe17cbe1cb0a0d258a63395ce05497f2b2eb49e"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/34.json",
+      "size": 26432,
+      "sha256": "2ba8fd0d0506667008c14983fdb5c2d64f739617d1c646f16cce05e922102882"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/35.json",
+      "size": 28120,
+      "sha256": "5a929744c85b922c49ccdc770a68f5bbd986522e6ea1732b3a3fd0a76678af86"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/36.json",
+      "size": 28919,
+      "sha256": "78e810b0bd6fd48efb4aa0c0ad256fc1bdb49ed02e78443977ff03c7f7351df0"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/37.json",
+      "size": 61655,
+      "sha256": "50099f0b16bb25d5f7ceadfabffc22eb13f796c5c8cf1b518f50ebf5e6230e6c"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/38.json",
+      "size": 35253,
+      "sha256": "529c515c56d87171bdbd7c13cb388335d07f4cf31cf41e414b279127f5ed5936"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/39.json",
+      "size": 39366,
+      "sha256": "aea7f94d9fdaaba83f665561952c58d4fbed7ffe97245df5faeb5a525912bfbd"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/4.json",
+      "size": 98469,
+      "sha256": "f557366bcf58fb7fe654824b9333566ae93d3099ba9187fef6ec81ae9c1aa052"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/40.json",
+      "size": 40490,
+      "sha256": "39133cd91b9ae85bccccc2aa032cca57052bd53547c42fc7bc552efe974e6acd"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/41.json",
+      "size": 27977,
+      "sha256": "97b1e7944923dc625e1e52ef7c01278cd5bd83929843b82069455d7db287f6cd"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/42.json",
+      "size": 30249,
+      "sha256": "37c1f08072055ea5b9ac589046b4c8f2d79a167bbf1f73ea2c58dd401167c9d2"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/43.json",
+      "size": 39279,
+      "sha256": "559849c75910f8564b0d7b13b759e6827ab38ea3ed0d2caeb6a11e379dd67200"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/44.json",
+      "size": 29641,
+      "sha256": "c149c7fffd6b63ed327dae323a637d5630b59c28fa6bf8b03d54b285f3951d21"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/45.json",
+      "size": 16571,
+      "sha256": "5ee60a6013621a4a11375cf60b9bf91aaca04dea750216e9aa0520654146be35"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/46.json",
+      "size": 17269,
+      "sha256": "5c66d05ad8d5fc271f6de4c9ef0e1a5026895bed4f32bd98d86e701001e7e6f0"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/47.json",
+      "size": 21388,
+      "sha256": "94645a69ecac9046af84b5f66c1f8113d56569e99e0da16a5868527a8703a2c5"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/48.json",
+      "size": 22229,
+      "sha256": "ca18dbe124d3fcffbedbe08012d83bd1749dfe963b818d272ea1204cf295acee"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/49.json",
+      "size": 10116,
+      "sha256": "2a17b638900ee9870de956e927b4fccd1633151bc8387db7ec9254f6fb1cb613"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/5.json",
+      "size": 75546,
+      "sha256": "191ae16efd1d293978ad4ad6b155050f6dc447bd2e8cb2b80c448e8a2365b83a"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/50.json",
+      "size": 16049,
+      "sha256": "02d803c73bd34c8274122b34f052fbeea402ae2c2d7bfca51dce26cd864035d9"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/51.json",
+      "size": 29934,
+      "sha256": "7e14fa409f0ca21598ec997258f6380792b75601d2e3c4ea50fe7e1e5108f992"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/52.json",
+      "size": 26240,
+      "sha256": "9de7b9523fdbafab9f5cf883b45569efc8c06576ce4ae8f6a5e39752dbff8ba1"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/53.json",
+      "size": 36969,
+      "sha256": "d2955c3efa5abf8ff52444d170e88a0c611900e08ad00ef582630354a9c8abca"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/54.json",
+      "size": 17398,
+      "sha256": "22db63bddde17cf77ceb992e3beb8998eccdfaed76e98216de4305eae3e1c864"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/55.json",
+      "size": 19990,
+      "sha256": "8a313746842471e875949155149fc8fe3364988d989a2641259439ac9dc6f354"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/56.json",
+      "size": 33443,
+      "sha256": "2fe38f93fa40d10a1b0adf79b2ee31d60cf93079a2cc9c39e6e7ad9eba0242d5"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/57.json",
+      "size": 16039,
+      "sha256": "d2e706391ec7528a267dfb439b0b77a4a68992a36c704f47c27c8509189e950f"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/58.json",
+      "size": 13576,
+      "sha256": "ece8304a8e4fdb820d51d7a9380a790b21645b5dc7054974f3a3cbe72cfcd426"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/59.json",
+      "size": 14138,
+      "sha256": "6d4326d682031e09d9df537f4afae33ed419dea317f4233aba89cf49039582c7"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/6.json",
+      "size": 91000,
+      "sha256": "c8e9cd07402fbb99a8db8fa9fcb0f777f07398bd64e70c796de0a8204f68e49c"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/60.json",
+      "size": 9231,
+      "sha256": "6d616b816ccf125d75f910f4a0e1d1bbab428575488f6335cf4b11cd8e4e3a23"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/61.json",
+      "size": 7280,
+      "sha256": "4411417f56d57b7e814b81acf745fd2ecbf43f69e9cd5b2fe743513017459c67"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/62.json",
+      "size": 6285,
+      "sha256": "697a32b502e4cba93d123824df2114078b08de29d3b0de47421037d0848555f1"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/63.json",
+      "size": 6442,
+      "sha256": "35aead3b252d7c269ea7911d20ea975eb00fa454f179f5170bd69f2d0a124093"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/64.json",
+      "size": 8662,
+      "sha256": "559043fee55949daca1d4ce6d77f7678c168d15027a212872fc17b4da8bb533f"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/65.json",
+      "size": 10045,
+      "sha256": "195427fca66a6d25e858ca07a03f8499f1977105ab9e2859903fd872c7f8b29a"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/66.json",
+      "size": 7790,
+      "sha256": "66bcffd6f37924f26a0f53163bd482cfe0101d6d02044fa19b30b3526c916153"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/67.json",
+      "size": 15059,
+      "sha256": "bc95069b4a4648c7f1b38d60e10e389c5b4189b0ff17f2d92fba894e5965570f"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/68.json",
+      "size": 40551,
+      "sha256": "a2a18cd086c73b188fd3252e7f82d9fded48d46dd3565338d7f452e128a6fdb4"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/69.json",
+      "size": 32577,
+      "sha256": "1cdbf6e081fffdd44f8bb63fcb3f70e1473b973def077c18669711f1615589c1"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/7.json",
+      "size": 101014,
+      "sha256": "611965eebc0ff3c423386d61b6c5d62d3090b5a693fcec67b7563903edc92b6e"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/70.json",
+      "size": 32745,
+      "sha256": "13a7a90050ce70c1d50e2dbdfd0fa53f7651f6d7be386c0219f9b32b6325c3f1"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/71.json",
+      "size": 31704,
+      "sha256": "db083be59cec85050148af61a06af4fc80dbdf79de4da473cc8b4401eb395fda"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/72.json",
+      "size": 15842,
+      "sha256": "0024c07a65c956f67f8edfd62aeaf11be4699aa68c973eee4aa502853e104525"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/73.json",
+      "size": 12415,
+      "sha256": "414b467d38345218f860d1fa41325e99603d4ea101927a4ba89e1a7c7d7ad859"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/74.json",
+      "size": 46378,
+      "sha256": "9737578e82182a7bcdbb7374cf67ff7a1dd1bbe025845f355fc9c06d4d23ba4d"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/75.json",
+      "size": 21348,
+      "sha256": "2cfa3d19a54d2f8ca4f32e3939fc4ffc38f92b151fee5307d6f7c7ef2a5c677b"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/76.json",
+      "size": 19576,
+      "sha256": "33efdcb7ef6ed3dcc44d58e8f2ae57240c0ce21b0163d4e37d7ed18f34fcfb7b"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/77.json",
+      "size": 31397,
+      "sha256": "3efe70a5e671c089c9cc3edbd1e21b6e6c6d85abed32e05cf6fdcfa94e2cc12f"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/78.json",
+      "size": 18077,
+      "sha256": "2103829518c349ea2a99b9ef590ac5bbf7d1a9b96390eb97994b24b9e8be6ff4"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/79.json",
+      "size": 26853,
+      "sha256": "bc514dd738d6d9c7e0576317ecac2c0d7d01b7c09142f7cf12bd5de14d1c3157"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/8.json",
+      "size": 38096,
+      "sha256": "aa7ebaca6359887f942f65ddcc41ec333121e2a7bf44baf8ed130fdca6b86bd3"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/80.json",
+      "size": 24306,
+      "sha256": "5e5a98092d24c6f133744a9fd15af3106a3fbfc2ffea1cee8a65839bc59d6ba9"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/81.json",
+      "size": 38183,
+      "sha256": "adb5e03865a3bdbc1fe97d1254e07a18fed057b7a85b2484be185f7aa8120a10"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/82.json",
+      "size": 11898,
+      "sha256": "416dc85297ee5c7967cc026be14d9c7732173207748a6dbd8e92fd80f17bfa29"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/83.json",
+      "size": 25969,
+      "sha256": "7f3cb467f02bf39b2aa94912ac48d7504ac7e23e76ebff1c3c085eeece98208b"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/84.json",
+      "size": 17685,
+      "sha256": "bd7686d6ebcf74e7f44173e06dbe64ed3a9ecf7c51f46b38504e4b4522ec8884"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/85.json",
+      "size": 25725,
+      "sha256": "4589e07d7507aad4a548f1d1c9021ac5c6c86ba5058187cb81dfe79a2e9fd24e"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/86.json",
+      "size": 11196,
+      "sha256": "9345e92f5688f140e4093621d45b4b1f25db6670777c494a474d75b83006eb63"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/87.json",
+      "size": 13362,
+      "sha256": "5ad8be63ea0a4f1558a91a56efdcb8009141fdb3d1756154b17ee2d55217aa3b"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/88.json",
+      "size": 11826,
+      "sha256": "e6c177d8d5f763992e75c63026e3026755fa9718618ad072fcf514ff1e3fedda"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/89.json",
+      "size": 16891,
+      "sha256": "0b4ef75262ff7759cefc8402291cb352de519406a315d484798ac4b8c86b3fdb"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/9.json",
+      "size": 69972,
+      "sha256": "6167a1c98a4455dc0fb659bb288c31c598a74c208da84569ffdce2c808ac2005"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/90.json",
+      "size": 9518,
+      "sha256": "263162aed716071baaf92d3a58ea016ff01766ec1bdfa4a239c9b5029407fe9f"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/91.json",
+      "size": 16234,
+      "sha256": "4cc2dc9fe37950f7e14cf0f81f5836e9a2965f7d691191a53e3a673b3b81d800"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/92.json",
+      "size": 10875,
+      "sha256": "b6cd05fbccc98ac88faa4b6a27ba869678e1022bbdf61ad2dc0f15510515d77e"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/93.json",
+      "size": 6106,
+      "sha256": "f418dd414446f1586c733b1d71bc46e7af9b2e9e8fd1772dd5c417de2ddfc2da"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/94.json",
+      "size": 3281,
+      "sha256": "e957382b955b54b4f2cf0f6ee06937ad0260135632d8aadcd63f811528663861"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/95.json",
+      "size": 7369,
+      "sha256": "28a2ff2ab36b563254c99c1d3c504bd0c4b445a642b5b10faf1000e2f13f07fa"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/96.json",
+      "size": 16198,
+      "sha256": "f3d3a9906a959921ac9e2dac36700b9a3661d6a5eb91c65ef7eadbfe2f87582c"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/97.json",
+      "size": 1459,
+      "sha256": "eb9cf860d6a68bd2c4f374eda8342bb2519afb38b84ae20d229f4b26362c88fd"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/98.json",
+      "size": 3339,
+      "sha256": "11404c73d888f6815397e7b1605a240ddb8c3cdad8c7d13c2b271b09fea0220d"
+    },
+    {
+      "path": "app/src/main/assets/tafsir/ar-tafsir-muyassar/99.json",
+      "size": 3441,
+      "sha256": "73329250fb5b6423c800c6fa7d7f08a45abb826de47bd14602b031c865888678"
+    },
+    {
+      "path": "app/src/main/assets/wird_home_logo.png",
+      "size": 122230,
+      "sha256": "bd8dc99790c93ef80ad739001b6867abfe840b076e204984a238adbe5483bfce"
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/adhan_hassan_ii.jpg",
+      "size": 86877,
+      "sha256": "081eb027457be9cb8517e68355f61e950ad4ed1a70eb6c86f73a0b7230b23f08"
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/ic_launcher_foreground.png",
+      "size": 148366,
+      "sha256": "dda393eaed5e012269a6f2b31ef81ac06b6b424d91cab0c050f66f1ca4a66e11"
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/wird_splash_word.png",
+      "size": 62595,
+      "sha256": "05ba2d00a20c533d3661c226776bbdf3c3f5065798bf94ade8c702142c070f10"
+    },
+    {
+      "path": "app/src/main/res/font/wird_arabic_bold.ttf",
+      "size": 194552,
+      "sha256": "c0f9433c8b5f24c509218fadb900e73e8d326ca61fe27b4b28ebc3c14cb108f2"
+    },
+    {
+      "path": "app/src/main/res/font/wird_arabic_regular.ttf",
+      "size": 194336,
+      "sha256": "547e7a5a7f3ae7a676315e9a0985f15de82ee438e3d6c86627b331c7bdfad878"
+    },
+    {
+      "path": "app/src/main/res/mipmap-hdpi/ic_launcher.png",
+      "size": 11588,
+      "sha256": "46f78bdef530254b327f5d300626ea514c93613eab3daeffb36b103e8270fe41"
+    },
+    {
+      "path": "app/src/main/res/mipmap-hdpi/ic_launcher_round.png",
+      "size": 11588,
+      "sha256": "46f78bdef530254b327f5d300626ea514c93613eab3daeffb36b103e8270fe41"
+    },
+    {
+      "path": "app/src/main/res/mipmap-mdpi/ic_launcher.png",
+      "size": 6067,
+      "sha256": "2a273ad0adab10d3e5ca87e26bd78e7e11caa62a5a707bb75167b5d24fea3614"
+    },
+    {
+      "path": "app/src/main/res/mipmap-mdpi/ic_launcher_round.png",
+      "size": 6067,
+      "sha256": "2a273ad0adab10d3e5ca87e26bd78e7e11caa62a5a707bb75167b5d24fea3614"
+    },
+    {
+      "path": "app/src/main/res/mipmap-xhdpi/ic_launcher.png",
+      "size": 18260,
+      "sha256": "d60fadc2f0b71c36db3a9a6529aa009088aaf529deacb397c8dba2b5d7b4507d"
+    },
+    {
+      "path": "app/src/main/res/mipmap-xhdpi/ic_launcher_round.png",
+      "size": 18260,
+      "sha256": "d60fadc2f0b71c36db3a9a6529aa009088aaf529deacb397c8dba2b5d7b4507d"
+    },
+    {
+      "path": "app/src/main/res/mipmap-xxhdpi/ic_launcher.png",
+      "size": 35065,
+      "sha256": "fee35ef66facdae2de38eb76683ee1fd0ac50bf99c08498ca7cebb2a537a29dd"
+    },
+    {
+      "path": "app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png",
+      "size": 35065,
+      "sha256": "fee35ef66facdae2de38eb76683ee1fd0ac50bf99c08498ca7cebb2a537a29dd"
+    },
+    {
+      "path": "app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+      "size": 55679,
+      "sha256": "1ed0f4969dde5005466d1773021875debf1e26981706e3740b28dccc28f9232c"
+    },
+    {
+      "path": "app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png",
+      "size": 55679,
+      "sha256": "1ed0f4969dde5005466d1773021875debf1e26981706e3740b28dccc28f9232c"
+    },
+    {
+      "path": "app/src/main/res/raw/adhan.ogg",
+      "size": 1229032,
+      "sha256": "35fe06b08fe80505c550c33fed8a783fa9901ddc81ac884958b4be048f5b2a79"
+    },
+    {
+      "path": "app/src/main/res/raw/adhan_abdul_basit.mp3",
+      "size": 401589,
+      "sha256": "daeb7f834649be602a9c96dd6fd23a919170881a06438477c86b7a0eec053c42"
+    },
+    {
+      "path": "app/src/main/res/raw/adhan_ahmad_nuaina.mp3",
+      "size": 420165,
+      "sha256": "6689c8a175825e609276aa3454b524e57aa889523311263ab3dee4f1c6cbf789"
+    },
+    {
+      "path": "app/src/main/res/raw/adhan_hamad_deghreri.mp3",
+      "size": 1289240,
+      "sha256": "7b21bd6a3ac390313aaa11d066491647ac8ada07dc2825c52eaf1db4328bd396"
+    },
+    {
+      "path": "app/src/main/res/raw/adhan_hamdan_almalki.mp3",
+      "size": 4267408,
+      "sha256": "b4880217aae9e7514934705961ce3c35554a2447ebbb874f1f9480b262b24145"
+    },
+    {
+      "path": "app/src/main/res/raw/adhan_ibrahim_arkani.mp3",
+      "size": 1924747,
+      "sha256": "2c93efc525ff086b4449fff808f4e6ad013266738a49568f548dcd14dde63fba"
+    },
+    {
+      "path": "app/src/main/res/raw/adhan_majed_hamathani.mp3",
+      "size": 1808136,
+      "sha256": "6ac79b5cb05bca0999f46660def7fe8f116e0f93139b4f14318cdbee4663b088"
+    },
+    {
+      "path": "app/src/main/res/raw/adhan_makkah.mp3",
+      "size": 404973,
+      "sha256": "db4e925a781da670f88491efc44ed34682c4828a39260d593f851c866e7a4412"
+    },
+    {
+      "path": "app/src/main/res/raw/adhan_malek_fajr.mp3",
+      "size": 2002487,
+      "sha256": "6111d9c785b8af83cd21420129866fa64fac313406a1a6c9e39595d41649d11e"
+    },
+    {
+      "path": "app/src/main/res/raw/adhan_mansoor_zahrani.mp3",
+      "size": 1526013,
+      "sha256": "4dd301083b438d533d743e79918b7c5daf7b29b7b5b14845f22b29321a641605"
+    },
+    {
+      "path": "app/src/main/res/raw/adhan_mishary_afasi.mp3",
+      "size": 1924538,
+      "sha256": "a8dfd5a0d6c9125c2172a53054f5036648808738d5404e35bdf8af5fe01abe92"
+    },
+    {
+      "path": "app/src/main/res/raw/adhan_mohammad_minshawi.mp3",
+      "size": 503181,
+      "sha256": "4e84420071c220036f393b0795c80886bf2539fe513fdcff771d8adaf7b776cb"
+    },
+    {
+      "path": "app/src/main/res/raw/adhan_mohammad_refaat.mp3",
+      "size": 407349,
+      "sha256": "0253af1750e159f1d9a96319af9c0e3ba3e45fbd5a42030ecb8a5b9c9c64f229"
+    },
+    {
+      "path": "app/src/main/res/raw/adhan_nasser_qatami.mp3",
+      "size": 1114951,
+      "sha256": "b743886feb7557c30aec8636a94fcdbbdbd14f58ecc302a9aa4f53a2280e70eb"
+    },
+    {
+      "path": "app/src/main/res/raw/adhan_suhaib_khatba.mp3",
+      "size": 732309,
+      "sha256": "6e6541aae4255c9a23d023ff0074e75ca2f5e9e554a0270edcbdb9c158287bce"
+    },
+    {
+      "path": "app/src/main/res/raw/adhan_two_takbeers.mp3",
+      "size": 354891,
+      "sha256": "eb7b34ac8ff378ffeffc3cefe5820e8f5883817f36fc56d7fecd0186cb4f5eb9"
+    },
+    {
+      "path": "gradle/wrapper/gradle-wrapper.jar",
+      "size": 43583,
+      "sha256": "2db75c40782f5e8ba1fc278a5574bab070adccb2d21ca5a6e5ed840888448046"
+    },
+    {
+      "path": "tests/support/json-20240303.jar",
+      "size": 78332,
+      "sha256": "3cf6cd6892e32e2b4c1c39e0f52f5248a2f5b37646fdfbb79a66b46b618414ed"
+    }
+  ]
+}
